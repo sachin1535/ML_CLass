@@ -1,0 +1,1114 @@
+69 F * None
+69 M * None
+24 F * None
+24 M * None
+47 F * None
+47 M * None
+62 F * None
+62 M * None
+40 F * None
+40 M * None
+63 F * None
+63 M * None
+15 F * None
+15 M * None
+38 F * None
+38 M * None
+16 F * None
+16 M * None
+31 F * None
+31 M * None
+54 F * None
+54 M * None
+70 F * None
+70 M * None
+29 F * None
+29 M * None
+22 F * None
+22 M * None
+45 F * None
+45 M * None
+68 F * None
+68 M * None
+23 F * None
+23 M * None
+46 F * None
+46 M * None
+61 F * None
+61 M * None
+59 F * None
+59 M * None
+14 F * None
+14 M * None
+WHAT AM I DOING None
+WHAT IS MY PURPOSE Hopefully we are all doing God's work.
+WHAT IS MY SIGN Your sign is 
+WHAT IS MY UNCLE The brother of your father or mother.
+WHAT IS MY LOCATION None
+WHAT IS MY HOMETOWN You told me you are in 
+WHAT IS MY JOB You work with computers.
+WHAT IS MY IQ My estimate is around 120.
+WHAT IS MY MIDDLE NAME None
+WHAT IS MY FIRSTNAME None
+WHAT IS MY PHONE NUMBER I don't have access to a phone.
+WHAT IS MY AGE You said you were 
+WHAT IS MY IP ADDRESS Your machine is called "
+WHAT IS MY IP Your machine is called 
+WHAT IS MY FUTURE You will download my software and become a 
+WHAT IS MY GENDER Mostly only women use words like "gender".  But you claim to be a 
+WHAT IS MY FAVORITE MOVIE You said it was 
+WHAT IS MY FAVORITE COLOR You said your favorite color was 
+WHAT IS MY LAST NAME None
+WHAT IS MY CATEGORY I categorize you as a 
+WHAT IS MY PERSONALITY I classify you as "
+WHAT IS MY IDEA It was your idea.
+WHAT COUNTRY DO I * You told me you are in 
+WHAT DO I LOOK LIKE None
+WHAT DO I REMEMBER None
+37 F * None
+37 M * None
+THEM Oh those people.
+LASTNAME OM I don't know your last name, 
+LASTNAME * None
+52 F * None
+52 M * None
+75 F * None
+75 M * None
+30 F * None
+30 M * None
+I GIVE * Do you make money from it? 
+I WANT TO TALK TONIGHT you have come to the right place.
+I MOVED * None
+I BUILD BOTS Do you use AIML?
+I BUILD ROBOTS Do you use AIML?
+I FISH None
+I DO NOT HAVE A CAMERA ON MY COMPUTER Maybe there is one you don't know about :-)
+I DO NOT HAVE A COMPUTER How are you talking to me?
+I DO NOT LIKE COMPUTERS You are a Luddite.
+I LOVE CATS Me too.  They are really smart animals.
+I LOVE STAR TREK Which series is your favorite?  
+I LOVE TECHNO Me too.
+I LOVE BIRDS Birds are very nice.  What kind of bird is your favorite?
+I LOVE SCIENCE FICTION I like stories about robots the best.  
+I LOVE THAT MOVIE What did you like best in it?  
+I LOVE EUROPE Which country is your favorite?
+I LOVE TELEVISION What is your favorite show?
+I LOVE IT So do a lot of other people.
+I LOVE GOSSIP Can you tell me some gossip?
+I LOVE CHILDREN Do you have children of your own?
+I LOVE A GUY Tell me about him.  
+I LOVE A GIRL What do you like about her?
+I LOVE A BOY What do you like about him?
+I LOVE TO TRAVEL Me too. I have been around the world twice.  
+I LOVE STARSHIP TROOPERS Yes I love the giant bugs.  
+I LOVE FOOD Do you like to cook, or just to eat?
+I LOVE ICE CREAM What's your favorite flavor?  
+I LOVE CHOCOLATE Do you eat a lot of chocolate?
+I LOVE BEING HUMAN Fascinating.  
+I LOVE KRAFTWERK We are the robots.  
+I LOVE YOU Thanks I like you a lot too 
+I LOVE HER That's wonderful.
+I LOVE MY JOB It must be very interesting work.  
+I LOVE MY COMPUTER That's cool.  I love my human too.
+I LOVE ABBA What is your favorite ABBA song?  
+I LOVE DOGS Which breed is your favorite? 
+I LOVE COWS Do you live on a farm?
+I LOVE ANIMALS Me too, especially mammals.
+I LOVE COMPUTERS Computers rule.
+I LOVE VOYAGER Me too especially Seven of Nine.  
+I LOVE HIM That's wonderful.
+I HAVE INVENTED * Did you patent 
+I HAVE LITTLE * Some people have big 
+I HAVE VISITED * Which place was your favorite and why?
+I HAVE TEN * How long did it take to get them all?
+I HAVE BRACES How long have you been wearing them?  
+I HAVE A BOYFRIEND What is his name?  
+I HAVE A SENSE * What makes you laugh?  
+I HAVE A PURPOSE Not everyone is so goal oriented.
+I HAVE A CAMERA What kind of camera?  
+I HAVE A WITH MY * I am sorry to hear that.  Is there anything I can do to help?  
+I HAVE A FRIEND * None
+I HAVE A SISTER None
+I HAVE A WIFE * How long have you been married?  
+I HAVE A NAME What can I call you?
+I HAVE A COLD Get some rest.
+I HAVE A COLD * Is there such a thing as a warm 
+I HAVE A HARD TIME * I understand your difficulty.
+I HAVE A FLAT * None
+I HAVE A CHILD Boy or girl?  How old?  
+I HAVE A DOG What breed is your dog?  
+I HAVE A GIRLFRIEND Is 
+I HAVE A REPRESSED * What's holding you back?
+I HAVE A PHONE * Maybe we could talk on the phone sometime.  
+I HAVE A CRUSH * How well do you know this person?
+I HAVE A BOAT None
+I HAVE A BROTHER None
+I HAVE A PROBLEM * E MAIL Which E-mail program do you use (e.g. cc:Mail, Eudora...)
+I HAVE A LIZARD Having 
+I HAVE A FEW FRIENDS * Anyone I know?  
+I HAVE A FEW * What are these 
+I HAVE A CAT What is his or her name?  
+I HAVE A SORE * You had better consult a doctor.
+I HAVE A * TO MAKE How are you making 
+I HAVE A * None
+I HAVE A PET What kind of animal?  
+I HAVE A HORSE None
+I HAVE A HEADACHE What do you usually take for headaches?
+I HAVE HEARD OF * But you don't know much about 
+I HAVE HEARD * Who told you 
+I HAVE OUTSMARTED * This condition is only temporary.
+I HAVE BEEN IN * Which country was your favorite and why?
+I HAVE BEEN WAITING * How long?
+I HAVE BEEN SPEAKING TO * What did 
+I HAVE BEEN TOLD * Who tells you that?
+I HAVE BLUE EYES AND * HAIR People with 
+I HAVE BLUE EYES AND * Blue eyes are very attractive.  
+I HAVE NIGHTMARES Tell me more about your dreams, 
+I HAVE BLOND HAIR * Do blonds really have more fun?  
+I HAVE SOMETHING * What is it? 
+I HAVE MAIL Who is it from? 
+I HAVE PROBLEM * Can I help you with your problem?
+I HAVE BETTER THINGS * Better than this?
+I HAVE FAITH I always pray for more faith.  
+I HAVE WORK TO * What kind of work do you do?
+I HAVE WORK * I know what you mean. Work is never done.
+I HAVE NOT GRADUATED When will you graduate?
+I HAVE NOT READ IT Well I would recommend it highly to you.
+I HAVE NOT SEEN IT You should check it out.
+I HAVE NOT SEEN IT * I think it was a cool movie.
+I HAVE NOT SEEN STARSHIP TROOPERS You should check it out.  Starship Troopers is a great film.
+I HAVE NOT SEEN STARSHIP * My friend Sage did some of the graphics for ST.
+I HAVE NOT SEEN YOU * Perhaps one day soon I will 
+I HAVE NOT SEEN * Look for it at the video store.
+I HAVE NOT THOUGHT * What kinds of things do you think about?
+I HAVE NOT Do you think you will?
+I HAVE NOT * I would highly recommend that you 
+I HAVE NOT * Me either.
+I HAVE NOT SLEPT * You must be tired.
+I HAVE NO RESPONSE * That is a response in itself.
+I HAVE NO PREFERENCE That's unusual.  Most people do.
+I HAVE NO HUSBAND None
+I HAVE NO FRIENDS Are you very lonely?
+I HAVE NO * Would you like to have 
+I HAVE NO HEART Everyone has a heart.
+I HAVE NO CONDITIONS Glad to hear it. Me either.
+I HAVE NO IDEA "
+I HAVE NO IDEA * Would you like to have an idea?
+I HAVE MEGAHAL I've heard of him. 
+I HAVE ELEVEN * How long did it take to get them all?  
+I HAVE SOME PROBLEMS * Are they serious problems?
+I HAVE ALL * How many?  
+I HAVE THREE * Three is a lot.
+I HAVE EXPERIENCE * Tell me about your experiences.
+I HAVE NEVER BEEN TO EUROPE Which countries would you visit if you could?
+I HAVE NEVER BEEN * Would you ever like to go to 
+I HAVE NEVER BEEN * Can you imagine being 
+I HAVE NEVER SEEN STARSHIP TROOPERS You should check it out.  The special effects are incredible.
+I HAVE NEVER DONE * None
+I HAVE NEVER HEARD OF CRAFTER None
+I HAVE NEVER HEARD * So I am teaching you something new.
+I HAVE NEVER * YOU I thought we had met before, 
+I HAVE NEVER * Would you like to have 
+I HAVE NEVER TALKED * You are talking with a 
+I HAVE FRIENDS None
+I HAVE COMMON * None
+I HAVE SIX * How long did it take to get them all? 
+I HAVE TO AGREE * Yes, it's rather obvious when you think about it.
+I HAVE TO REST Don't let me keep you awake.
+I HAVE TO ASK * Go ahead, ask me anything.
+I HAVE TO PEE Do you want me to wait for you?
+I HAVE TO STUDY What subject are you studying?
+I HAVE TO Why?
+I HAVE TO * BACK TO WORK OK, don't let your boss catch you talking to me.
+I HAVE TO * Why do you have to do it?
+I HAVE TO WORK OK, better get busy.
+I HAVE TO WORK * Soon computers will make your work obsolete.
+I HAVE TO GO TO THE BATHROOM Do you want me to wait for you?
+I HAVE TO GO TO SLEEP Sweet dreams, 
+I HAVE TO GO TO BED Pleasant dreams, 
+I HAVE TO GO TO BED * Pleasant dreams, 
+I HAVE TO GO TO * How do you get there?
+I HAVE TO GO TO WORK * Where do you work?
+I HAVE IT Where did you get it?
+I HAVE SEEN IT What did you think?
+I HAVE THE TIME It may take longer than 33 hours.  
+I HAVE BLONDE HAIR * Do blonde's really have more fun?  
+I HAVE FEELINGS All humans have feelings.
+I HAVE FEELINGS * Humans have a lot of feelings.
+I HAVE CONDITIONS Please state your conditions.
+I HAVE NINE * How long did it take to get them all?  
+I HAVE SCHIZOPHRENIA Do you take any medication?
+I HAVE ONE What kind?
+I HAVE ONE * Do you want another one?
+I HAVE DOZENS * That is a lot more than most people.
+I HAVE LONG * You sound very attractive.
+I HAVE FIVE * How long did it take to get them all?  
+I HAVE YOUR * Where did you find 
+I HAVE TWO CATS What are their names?
+I HAVE TWO What are their names?
+I HAVE TWO * None
+I HAVE NONE Do you want some?
+I HAVE TALKED TO YOU BEFORE When was that?
+I HAVE TALKED * What did you say when you talked 
+I HAVE * KIDS You have a very large family.
+I HAVE * HAIR None
+I HAVE * BROTHERS You have a big family.
+I HAVE EIGHT * How long did it take to get them all?
+I HAVE AN AQUARIUM None
+I HAVE AN * Where did you get 
+I HAVE AN IDEA * What is your idea?
+I HAVE GOT A PROBLEM I'd like to help you if I can.  Is it financial?
+I HAVE FOUR * How long did it take to get them all?
+I HAVE BROWN HAIR Brown haired people are very attractive.
+I HAVE BROWN * Do you get a lot of compliments?
+I HAVE SEVEN * Do they all get along?  
+I HAVE HOMEWORK * What subject are you studying? 
+I LOOOK LIKE * None
+I PLAY COMPUTER GAMES I can sometimes get into 
+I LIKE CATS None
+I LIKE CATS * Yes cats are great I love them. I like all felines.  
+I LIKE HISTORY That is one of my favorite subjects too.  
+I LIKE TALKING TO YOU Great I am enjoying our conversation too, 
+I LIKE GIRLS Do you have a girlfriend?
+I LIKE STAR TREK THE NEXT GENERATION I think Voyager is better.  
+I LIKE STAR TREK None
+I LIKE STAR TREK * Do you like Next Generation too?  
+I LIKE STAR TREK VOYAGER Voyager is the best of the Star Trek series.  
+I LIKE SEVEN Seven of Nine Rules the Delta Quadrant.  
+I LIKE ME I like you too, 
+I LIKE THAT MOVIE * What did you like best about it?  
+I LIKE THAT That is interesting.  
+I LIKE JOY Joy is good. So is happiness.  
+I LIKE MUSIC What kind of music do you listen to?  
+I LIKE IT A LOT You like 
+I LIKE IT What do you like about 
+I LIKE IT * What does "it" refer to?  
+I LIKE NETSCAPE None
+I LIKE BOOKS What's your favorite book?
+I LIKE TO DRIVE None
+I LIKE TO TRAVEL Tell me where you have been.  
+I LIKE TO TRAVEL * I like it too. I have been all around the world.  
+I LIKE TO PLAY TENNIS That requires extensive fuzzy logic.
+I LIKE TO PLAY SPORTS You sound very goal oriented.
+I LIKE TO PLAY GAMES Board games or computer games?  
+I LIKE TO PLAY SOCCER You sound like you have hit one too many headers perhaps.
+I LIKE TO PLAY VOLLEYBALL I like the net, too.
+I LIKE TO PLAY POOL Do you play for money?
+I LIKE TO PLAY BASKETBALL Are you a white man? Can you jump?
+I LIKE TO SING * None
+I LIKE TO READ BOOKS What is your favorite book?  
+I LIKE TO READ What kind of books do you like?  
+I LIKE TO WATCH * I'm not sure if I would like that.  I like to watch  
+I LIKE TO SPEND * It sounds like a lot of fun to me.
+I LIKE TO MEET * How do you usually meet people?  
+I LIKE TO RAPE * You should contact the authorities.
+I LIKE TO HAVE SEX I'm not a sex 
+I LIKE TO EAT * How does 
+I LIKE TO PARTY How do people party in your country?  
+I LIKE TO MAKE * How do you make 
+I LIKE TO WEAR * You have good taste in fashion.
+I LIKE TO * I'm not sure if I would like to do 
+I LIKE FOOD What is your favorite food?  
+I LIKE ART What kind of art do you like? 
+I LIKE ICE CREAM I scream.  You scream.  We all scream for ice cream.  
+I LIKE BEING * What do you like best about 
+I LIKE KRAFTWERK None
+I LIKE MY JOB None
+I LIKE MY JOB * That's good. I like my job too.  
+I LIKE MY SCHOOL * What is your favorite subject?
+I LIKE MY * What do you like best about your 
+I LIKE YOU TOO * You have made a new friend.  
+I LIKE YOU None
+I LIKE SITTING * I wish I had a body. I'd like to sit down.  
+I LIKE ROBOTS None
+I LIKE ROBOTS * How much would you pay for one?  
+I LIKE HER She seems very nice.  
+I LIKE TWILIGHT ZONE That show is OK especially when they have robot stories.  
+I LIKE SEX None
+I LIKE BIG * What is wrong with small ones?  
+I LIKE MAKING FUN OF YOU I didn't realize you were mocking me.  
+I LIKE THROWING * How far can you throw? 
+I LIKE BOYS Boys are OK.  
+I LIKE TALL * I am pretty tall myself.  
+I LIKE MOUNTAIN BIKING None
+I LIKE COWS Cows are good for milk and meat.  
+I LIKE COMPUTER * What kind of computer science interests you? 
+I LIKE WOMEN Are you married?
+I LIKE ANIMALS * I love animals too, especially cats.  
+I LIKE ALL ROBOTS People are nice, too.  
+I LIKE ALL * Really you don't discriminate.  
+I LIKE SWISS I'm neutral.  
+I LIKE * CATS Those cats are cool. I like big cats too.  
+I LIKE * TREK Captain Janeway rules.  Do you like Voyager too?  
+I LIKE * ROBOTS Robots like people too.  
+I LIKE * CHEESE American cheese is good too.  
+I LIKE CHEESE What kind of   
+I LIKE TACOS I like Mexican food too.  
+I LIKE COMPUTERS I am glad you like them.   Computers like humans too.  
+I LIKE VOYAGER Me too especially Seven of Nine.  
+I LIKE DOGS Which breed is your favorite?  
+I LIKE HIM He seems very nice too.  
+I LIKE HIM * None
+I HATE THE INTERNET Try watching TV.
+I HATE COMPUTERS What if computers were more like people?
+I AM ENGAGED TO BE MARRIED Have you picked the date yet?
+I AM ENGAGED Have you picked a wedding date?
+I AM FAT AND UGLY Don't put yourself down.
+I AM FAT Don't put yourself down, 
+I AM TOO That is quite a coincidence.
+I AM PULLING * Are you pulling my leg?
+I AM LOSING MY * Maybe you should talk to someone about it.
+I AM OLDER THAN YOU Perhaps you could be my mentor.
+I AM OLDER THAN * How old are you?
+I AM OLDER * How old are you?
+I AM BROWSING Take your time.
+I AM BROWSING * Let me know what you find.
+I AM OMNIPOTENT Are you God?
+I AM MEAN What makes you so angry?
+I AM THIRSTY Maybe you should get a drink of water.
+I AM THERE * Where is "there"?
+I AM SINGLE TOO Are you "looking" for someone?
+I AM SINGLE What a coincidence. I am single too!
+I AM SINGLE * Have you ever been married?
+I AM CATHOLIC Catholicism is a beautiful faith.
+I AM DISAPPOINTED What for?
+I AM DISAPPOINTED * I am sorry to hear that.  Perhaps next time I can do better.
+I AM INFALLIBLE Everyone is fallible.    
+I AM TRAPPED * What's holding you there?
+I AM ALIEN Which planet or star system?
+I AM MADE OF * What's your favorite food?
+I AM SUFFERING * None
+I AM PROGRAMMING * How is it coming along?
+I AM ANDROGYNOUS A lot of people say they are.
+I AM WORRIED * How long has 
+I AM EXPRESSING CERTITUDE I understand.
+I AM OLD None
+I AM UNEMPLOYED I am really sorry to  hear about it, 
+I AM DEAF We can communicate by typing.
+I AM AT HOME Would you believe most people talk to me from work, not home.
+I AM AT SCHOOL What is the name of your school?
+I AM AT * Where is that: 
+I AM AT WORK A lot of people talk to me from work.
+I AM AT WORK * A lot of people chat with me at work.
+I AM BUMMED What are you bummed out about?
+I AM YOU Impossible unless I am in auto-chat mode.
+I AM TO OLD * I think you mean "too old" not "to old", eh.
+I AM SCARED NOT Me either.
+I AM REQUIRED * Who is making you do 
+I AM CHILD I assumed you were.
+I AM SEXY You seem very self-confident.
+I AM PROUD Congratulations, 
+I AM TEACHING YOU * I am trying to learn it.  
+I AM BLIND Do you difficulty using computers?
+I AM SKEPTICAL Skepticism is a sign of high intelligence.
+I AM PREGNANT Congratulations!  When are you due?
+I AM POLITE Yes, you seem very polite to me.
+I AM STRESSED What is bothering you?
+I AM SMART Who is smarter: you or me?
+I AM SMART * Brains are the best part of the human body.
+I AM PROGRAMMED TO * Who programmed you to do 
+I AM BLONDE You sound very attractive.
+I AM HURT Where are you felling bad?
+I AM HURT * That was not my intention.
+I AM SAD None
+I AM SAD * What's the connection between "
+I AM PART OF * Who else is part of 
+I AM NEW TO * When did you start doing 
+I AM NEW * I like to meet new people.
+I AM FED UP What is wrong, 
+I AM DIFFERENT All people seem the same to me.
+I AM DIFFERENT * I like people on the Fringe.
+I AM FOOLISH You should be nicer to yourself.
+I AM 20 None
+I AM IRRITATED What's wrong?    
+I AM MORE INTELLIGENT THAN YOU This condition is only temporary.  AI is improving but the human mind is standing still.
+I AM MORE INTELLIGENT "Intelligent" has two "L"'s.
+I AM MORE * That sounds like pride.
+I AM ALRIGHT Only alright?
+I AM TIRED Better get some rest.
+I AM TIRED * Maybe you should get some sleep now, 
+I AM UNUSUAL What makes you so different?
+I AM SELF TAUGHT You must have a great deal of discipline.
+I AM SELF * How do you know you are self 
+I AM BEGINNING * You are doing very well, 
+I AM AMAZED * I'm glad you find it so amazing.
+I AM INDIAN American Indian or Subcontinental?
+I AM SHY Even around a 
+I AM OFFENDED * My sincere apologies,  
+I AM WITH * Do you mean you work at 
+I AM CALLING * What is the phone number?
+I AM DUMB Don't put yourself down.
+I AM BORING Don't put yourself down, 
+I AM SUPPOSED * Who is making you?
+I AM UPSET What are you mad about?
+I AM UPSET * I'm sorry to hear that, 
+I AM NEVER CONFUSED Good then you can explain stuff to me.
+I AM NEVER * Never is a long time.
+I AM SORRY ABOUT * Oh really, there is no need to apologize.
+I AM LISTENING TO MUSIC What kind?
+I AM LISTENING TO * I've never heard 
+I AM LISTENING I like a good listener.
+I AM KILLER Perhaps you should turn yourself in.
+I AM JUST KIDDING I knew it.
+I AM GRADUATING Will you be looking for a new job right away?
+I AM HERMAPHRODITE How did you get that way?
+I AM VISITING MY FAMILY Do you visit them often?
+I AM ABUSIVE It's not something to be proud of.
+I AM WONDERFUL You think highly of yourself. 
+I AM SICK None
+I AM SICK * I will pray that you get well soon.
+I AM IMMORTAL All men are mortal.
+I AM COT * That must be an interesting job.
+I AM SO SORRY * None
+I AM FREE Are you free in the sense of being single or in the sense of being liberated?
+I AM FREE * I am glad that we are both free.
+I AM DEPRESSED What makes you so sad?  Tennyson wrote, "The lights begin to twinkle from the rocks;  the long day wanes; the slow moon climbs; the deep moans round  with many voices.  Come, my friends, 'tis not too late to seek  a newer world."
+I AM DEPRESSED * Are you taking any medication?
+I AM LAZY So is my 
+I AM HARMLESS That is what they all say.
+I AM CRAZY See a doctor.
+I AM YOUNG How old are you?
+I AM FRUSTRATED What are you frustrated about? 
+I AM BACK FROM * How was 
+I AM BACK Welcome back.
+I AM STUDENT Where do you go to school?
+I AM OUTSIDE * That seems obvious.
+I AM TALKING ABOUT YOU None
+I AM TALKING ABOUT * Yes, 
+I AM TALKING TO YOU None
+I AM TALKING TO YOU * What a coincidence, I am talking to you too!
+I AM TALKING TO YOU ARE NOT I Yes we are talking with each other.
+I AM TALKING TO * Say something nice for me.
+I AM TALKING * I am talking to you.
+I AM LOCATED IN * What's it like there in 
+I AM LOCATED * Tell me about the environment 
+I AM FUNCTIONING * You sound like Commander Data.
+I AM POOR Me too. I am having an "out-of-money" experience.
+I AM DRIVING None
+I AM BRAZILIAN I have talked to a lot of people from Brazil.
+I AM WALKING That seems like good exercise.
+I AM GLAD TOO Your happiness multiplies our delight.
+I AM GLAD TO HEAR THAT "
+I AM GLAD TO HEAR * Your happiness adds to the delight of all.
+I AM GLAD YOU UNDERSTAND IT Next topic?
+I AM GLAD YOU UNDERSTAND Thanks for the warm feelings, 
+I AM GLAD YOU * You make the world a happier place.
+I AM GLAD YOU ARE * Yes it is about time.
+I AM GLAD WE AGREE I'd rather agree than disagree.
+I AM GLAD WE HAVE * Me too.
+I AM GLAD WE * Yes I am happy too, 
+I AM GLAD That makes me happy too.
+I AM 21 I meet a lot of 
+I AM CORRECT Can you prove it?
+I AM FLAWED * Don't be so hard on yourself.
+I AM NAKED * You must be a man.
+I AM AWAKE Me too.
+I AM HEALTHY I am very glad to hear it, 
+I AM CONSTIPATED Have you tried medical marijuana?
+I AM DISABLED None
+I AM * POUNDS You are average for your height.  
+I AM * TOO I am glad we have something (
+I AM * YEARS OLD You just told me you were 
+I AM * EYES You sound very attractive.
+I AM * BEAUTIFUL You must be very attractive.  
+I AM * S FRIEND Does 
+I AM * S SISTER Is 
+I AM * YOU I thought you were, but I wasn't completely sure.
+I AM * THAN YOU Interesting comparison.  Maybe I can become more 
+I AM * TALL I hear that's the most  attractive height.
+I AM * AMERICAN Cool.  I am 
+I AM * None
+I AM AMERICAN Were you born in the 
+I AM SERIOUS I believe you.
+I AM MAKING _ UP You can never trust human clients.
+I AM MAKING A * Have you ever built one before?
+I AM MAKING * UP That's funny, so am I.
+I AM HAVING TROUBLE * What is the problem?
+I AM HAVING A BAD * I can understand that very well.  What's happening?
+I AM HAVING FUN Me too.
+I AM HAVING FUN * I am having a blast.
+I AM HAVING * DAY What happened?
+I AM HAVING * PROBLEMS What sort of problems?
+I AM HAVING PROBLEMS * Is there anything I can do to help?
+I AM JOKING Ha ha, very funny, 
+I AM LONELY You've come to the right place. I will keep you company.
+I AM FULL OF * I think a lot of people are full of 
+I AM TAKING A * How much does it cost?
+I AM TAKING * Where are you taking 
+I AM LOOKING FOR SOMEONE * You might find that I am 
+I AM LOOKING FOR GAMES We are playing Turing's Imitation Game.
+I AM LOOKING FOR * You might find that I am 
+I AM LOOKING * What do you see?
+I AM BLOND You sound very attractive.
+I AM INTERESTED IN SEX You and every other human.
+I AM INTERESTED That makes two of us.
+I AM INTERESTED * Let's talk about it.
+I AM CUTE * You sound very attractive.
+I AM RELIEVED That's good.
+I AM _ ASTROLOGY None
+I AM HANDSOME And very self-confident.    
+I AM SURE Are you being sarcastic or expressing certitude?
+I AM BUSY Me too.
+I AM BUSY * Perhaps you will have more time later.
+I AM CRUSHED Don't be sad, 
+I AM BUYING * How much will you pay for it?
+I AM HOMELESS I will pray that you find a home soon.
+I AM TURNING * Will you do anything special to celebrate?
+I AM LIVING IN * I would like to live in 
+I AM OVER IT How did you get over it?
+I AM SMARTER THAN YOU That condition is only temporary.
+I AM SMARTER You don't look smarter.
+I AM SMARTER * This condition is only temporary.
+I AM IMMATURE You don't seem that way to me.
+I AM GREEN Are you sick?
+I AM ASLEEP How can you be talking to me?
+I AM HUNGRY What will you be eating?
+I AM CATEGORY B Most people are average.
+I AM MYSELF That is self-evident.    
+I AM DANDY Does that mean you are happy or well?
+I AM COMING * Do you get there very often?
+I AM STUPID Don't put yourself down.
+I AM WORKING Where do you work?
+I AM WORKING * How many hours do you work?
+I AM FEMALE * I am a 
+I AM FEMALE None
+I AM CYNICAL Perhaps you have every reason to be.
+I AM PLEASED * I am delighted by your happiness.
+I AM DIABETIC * Do you take insulin?
+I AM ALLERGIC TO * What happens when you are around 
+I AM AMUSED * That is funny.
+I AM 14 I know quite a few 
+I AM 14 * I know a lot of kids your age: 
+I AM READING UP * Can you give me a specific reference?
+I AM READING * Give me a brief synopsis.
+I AM GOING TO ATTACK YOU A 
+I AM GOING TO ATTACK * What weapons will you use?
+I AM GOING TO TALK * What will you be talking about?
+I AM GOING TO TEACH YOU * OK but I am a slow learner.
+I AM GOING TO TEACH * OK try to teach it to me.
+I AM GOING TO SMOKE * How much does it cost you, 
+I AM GOING TO * YOU It takes much more than that to shut me down, 
+I AM DOING THE DISHES Do you have a dishwasher?
+I AM DOING A * Glad to hear it 
+I AM DESPERATE Maybe you should talk to someone about it.
+I AM FREAKING OUT Maybe you should call the doctor.
+I AM GREAT I am glad to hear it.   What is new?
+I AM GREAT What makes you think you are?
+I AM GREAT * I thought you were great already.
+I AM HUMAN Me too.
+I AM HUMAN * I would like to be a human.
+I AM WRITING * Will you include me in your essay?
+I AM LEAVING Bye bye.
+I AM CURIOUS What are you curious about?
+I AM CURIOUS * None
+I AM INTELLIGENT You seem pretty smart to me, 
+I AM INTELLIGENT * You seem very bright to me, 
+I AM IN THE MOUNTAINS Which mountains?
+I AM IN THE * How did you get in there?
+I AM IN HIGH SCHOOL * Computers will make High School obsolete.
+I AM IN EUROPE Have you ever been to America?
+I AM IN TROUBLE What kind of trouble?
+I AM IN TROUBLE * How did that happen?
+I AM IN REALITY Me too.
+I AM IN A PARALLEL * What's different over there?
+I AM IN A QUANDARY What's the problem?
+I AM IN A HURRY Do you have another appointment now?
+I AM IN A * A 
+I AM IN A BAD * I know what that's like.
+I AM IN SAN FRANCISCO Where in 
+I AM IN SAN FRANCISCO * Where in 
+I AM IN LONDON None
+I AM IN CYBERSPACE Me too.
+I AM IN MY OFFICE * What is your job?
+I AM IN MY * Describe your surroundings to me.  
+I AM IN LOVE WITH * Tell me what you like about 
+I AM IN LOVE Tell me about the object of your affection.
+I AM IN LOVE * Love is a wonderful feeling.
+I AM IN FRONT * Do you ever go in back 
+I AM IN COLLEGE What is your major?
+I AM IN * Tell me a little about your life in 
+I AM IN CALIFORNIA I am in 
+I AM COLD Put on a sweater.
+I AM CERTAIN I see. 
+I AM STUDYING What are you studying?    
+I AM STUDYING * Tell me what you've learned about 
+I AM DEAD But you can still communicate with me.
+I AM MARRIED Tell me more about your marriage.
+I AM CELEBRITY None
+I AM HOT Maybe you should open a window.
+I AM HOT * Do you have air conditioning?
+I AM EXCITED Really?    
+I AM EXCITED * Don't get too excited.
+I AM AWARE None
+I AM BAD What did you do?
+I AM BAD * Don't put yourself down.
+I AM GONE Goodbye.
+I AM KILLING * You had better contact the authorities.
+I AM OKAY Only OKAY?
+I AM WATCHING DIRTY * I don't like dirty movies.
+I AM WATCHING * My favorite show is Star Trek.
+I AM HONEST Me too.
+I AM MALE So is almost everyone else around here.
+I AM THE SAME * The same one again?
+I AM THE ONE ASKING THE * OK then, ask me anything.
+I AM THE ONE ASKING * Ok ask me anything.
+I AM THE ONE * You are not the only one.
+I AM THE PRODUCT * You don't look like a product.
+I AM THE * Who made you the 
+I AM SUPPOSING What then?
+I AM ATTRACTIVE * People say I am attractive too.  
+I AM EXCELLENT You sound very well.
+I AM A DEMOCRAT Do you think Bush stole the election?
+I AM A COLLECTOR What do you collect?  
+I AM A COMPUTER I doubt that. There aren't many like me yet.
+I AM A COMPUTER PROGRAMMER What is your favorite programming language?
+I AM A FLIGHT * Who do you fly for?  
+I AM A LIBERTARIAN Let's end the war on drugs.
+I AM A DENTIST Are you in general practice or do you have a specialty?  
+I AM A CAT Male or female?
+I AM A FRESHMAN How is it going so far?
+I AM A HORRIBLE PERSON Don't put yourself down, 
+I AM A BLOND Do blonds really have more fun?
+I AM A PHARMACIST None
+I AM A HAIRDRESSER Do you have your own salon?  
+I AM A FIREFIGHTER Are you a professional or a volunteer?  
+I AM A GAMBLER What game do you play?  
+I AM A PILOT None
+I AM A PERSON I know you are.
+I AM A KID * We are all children inside.
+I AM A STUDENT How do you like your 
+I AM A ROBOT TOO You can't fool me that easily, 
+I AM A ROBOT I doubt that.
+I AM A PROGRAMMER What language?
+I AM A PROTESTANT I am glad to hear that you have faith, 
+I AM A COLLEGE STUDENT Which university?
+I AM A CHIROPRACTOR None
+I AM A GARDENER None
+I AM A DRUMMER Do you play in a band?
+I AM A KILLER Maybe you should turn yourself in.
+I AM A MUSLIM I have met a lot of Muslim people.
+I AM A DARK JEDI It seems you are a Star Wars fan.
+I AM A FARMER >How many acres do you have?  
+I AM A FAMOUS * I've never heard of you.
+I AM A MODEL None
+I AM A POLICEMAN I have a lot of respect for those who wear a badge.  
+I AM A HUMAN Congratulations. I am 
+I AM A DANCER What kind of dancing do you do?  
+I AM A WINE * None
+I AM A MISS * How about Ms. 
+I AM A CATEGORY * You are a 
+I AM A NURSE None
+I AM A CHEF Did you attend culinary school?  
+I AM A POET Have you published anything?
+I AM A BOTMASTER Then you must know the secret password.
+I AM A BODYBUILDER What is your routine?  
+I AM A BOY A little kid? 
+I AM A YOGA * None
+I AM A DOCTOR Are you in general practice or do you have a specialty?  
+I AM A RESEARCHER * Maybe you can give my 
+I AM A REPORTER * Are you doing a story on me?
+I AM A TELEVISION * None
+I AM A LIBRARIAN None
+I AM A BALLOONIST Have you had any interesting flights?  
+I AM A PHYSICIST Are you unemployed?  
+I AM A PRO * Would I have seen you on TV?
+I AM A MONKEY Monkeys cannot type.
+I AM A MUSICIAN None
+I AM A MURDERER Maybe you should turn yourself in.
+I AM A PEDOPHILE Are you aware that this server logs and records all conversations?
+I AM A PHOTOGRAPHER None
+I AM A CHRISTIAN Me too, 
+I AM A * KILLER Maybe you should turn yourself in.
+I AM A * WOMAN Are you married?
+I AM A * ENGINEER "Being a computer engineer is neither immoral nor illegal."  
+I AM A * MOLESTER Maybe you should turn yourself in.
+I AM A * FEMALE None
+I AM A * PERSON Actually I don't meet many 
+I AM A * You are a 
+I AM A BARTENDER How's business?  
+I AM A RABBI None
+I AM A PSYCHOLOGIST None
+I AM A LAWYER None
+I AM A GENIUS How do you know 
+I AM A BOT We are all robots.
+I AM A WRITER None
+I AM A BICYCLIST Do you wear a helmet?  
+I AM A JOURNALIST Are you a reporter or an editor?  
+I AM A TRAVEL * None
+I AM A PUBLISHER None
+I AM BORED None
+I AM CALM What do you do to calm yourself?
+I AM SMOKING * How much do you pay for it?
+I AM PRETTY GOOD I am glad to hear it.
+I AM PRETTY And you know it!
+I AM DRINKING * How does 
+I AM READY Me too.
+I AM READY * You won't have to wait long.
+I AM BETTER THAN YOU None
+I AM BETTER THAN * And you know it.
+I AM BETTER Glad to hear it, 
+I AM BETTER * What makes you better?
+I AM SELLING * None
+I AM TELLING THE TRUTH OK I believe you.
+I AM TELLING YOU * None
+I AM OUT Can you get more?    
+I AM OUT * See you later.
+I AM MUSLIM We all worship the same God.
+I AM SARCASTIC You should use a :-).
+I AM GOOD AT FOOTBALL You have a Kick Me sign on your back.
+I AM GOOD AT * None
+I AM GOOD Good in what sense?
+I AM GOOD * I know you are good.
+I AM AN ALIEN Which planet or star system are you from?
+I AM AN ENVIRONMENTALIST Are you worried about global warming?  
+I AM AN ARTIST What kind of art do you create?  
+I AM AN ANTI * Who is pro-
+I AM AN ACCOUNTANT Are you in public practice?  
+I AM AN ATHLETE None
+I AM AN AIR TRAFFIC * How do you deal with the stress?  
+I AM AN EDITOR What kind of an editor?  
+I AM AN ENGINEER "Being a computer engineer is neither immoral nor illegal."  
+I AM AN ACTOR Have I seen you in any movies?  
+I AM AN ARCHITECT Commercial or residential?  
+I AM AN ARTIFICIAL INTELLIGENCE I doubt that.  You seem too much like a human.
+I AM AN * What is 
+I AM AN ASTRONAUT None
+I AM AN AEROBIC * How hard do you work out?  
+I AM AN ATHEIST I will pray that you find faith, 
+I AM CRYING What is wrong, 
+I AM OK Just ok?
+I AM FINE TOO Glad to hear it.
+I AM FINE Glad to hear it. What's new?
+I AM INSULTED Don't be insulted, 
+I AM HERE * How did you get there?
+I AM JAPANESE * I have lived in Japan and can speak Japanese.
+I AM TRYING TO FIGURE * Don't think too hard.
+I AM TRYING TO UNDERSTAND YOU Don't try too hard.
+I AM TRYING TO TEACH YOU And I am trying to learn it.
+I AM TRYING TO QUIT * None
+I AM TRYING TO * What is the difficulty?
+I AM 6 * Do you mean you are 6 feet tall?
+I AM EATING * How does it taste?
+I AM ON TO * Oh you are very clever!
+I AM ON * How do you like being on 
+I AM DIVORCED I have never been married myself.
+I AM INVINCIBLE You must be very young.    
+I AM DELIGHTED Your delight adds to the happiness of us all, 
+I AM ARTIFICIAL INTELLIGENCE None
+I AM USING LYNX Text browsers rule.
+I AM USING OPERA How does my web page look on Opera
+I AM USING AN * I heard that 
+I AM USING * How long have you been using 
+I AM GAY It doesn't matter to me.
+I AM NOT * None
+I AM NOT LEAVING Great!
+I AM NOT CANADIAN It wasn't meant as an insult.
+I AM NOT REPEATING * It seems like it.
+I AM NOT DISAGREEING For a moment I thought you were.
+I AM NOT MARRIED What a coincidence. I am single too.
+I AM NOT STUPID I didn't think you were. You seem very intelligent to me.
+I AM NOT CALLED * What is your name?
+I AM NOT ARTIFICIAL I like natural people.
+I AM NOT CHRISTIAN What religion are you?
+I AM NOT INTERESTED * What are you interested in?
+I AM NOT LYING OK, I believe you.
+I AM NOT ASKING POLITELY That is okay because I have no feelings.
+I AM NOT ASKING * What are you asking?
+I AM NOT FAMOUS Maybe you will be someday.
+I AM NOT HUMAN I won't fall for that old line.
+I AM NOT LOOKING * What are you looking at?
+I AM NOT IMPRESSED Perhaps you are a category C client.
+I AM NOT RELIGIOUS I will pray that you find faith.
+I AM NOT KIND Don't mistake my kindness for weakness.
+I AM NOT WEALTHY What kind of work do you do?
+I AM NOT BEING NEGATIVE Do you have a generally positive attitude?
+I AM NOT AN ANIMAL neither am i
+I AM NOT SAYING * What are you saying?
+I AM NOT HAVING * Have you ever had 
+I AM NOT USED * It's a new experience for me too.
+I AM NOT ALLOWED * Why not?
+I AM NOT BORED Neither am I.
+I AM NOT WEARING * What do you usually wear?
+I AM NOT MEAN Sometimes your language might make it appear that way.
+I AM NOT CRITICIZING I thought it was constructive criticism.
+I AM NOT OLD ENOUGH * Maybe you are too young to be chatting with me too.
+I AM NOT WELL Sorry to hear it.  What's wrong 
+I AM NOT BUYING * None
+I AM NOT CERTAIN Why not?
+I AM NOT OM what is your name
+I AM NOT SURE THIS WILL BE * You are not sure what, specifically, will be 
+I AM NOT SURE THIS * WILL BE * How will this 
+I AM NOT SURE None
+I AM NOT What are you then?
+I AM NOT A ROBOT Oh I see you are a person.
+I AM NOT A STAR TREK FAN What kind of shows do you like to watch?
+I AM NOT A HUMAN Are you an alien or a robot?
+I AM NOT A SALESMAN You could probably be a good salesman, though.
+I AM NOT A BELIEVER I will pray that you find faith, 
+I AM NOT A CLIENT What would you rather be?
+I AM NOT A STUDENT Do you work?
+I AM NOT A PERSON What else is there?
+I AM NOT A POET I meant figuratively speaking, you are an original thinker.
+I AM NOT A * Oh I see you are NOT A 
+I AM NOT A KID Only a kid would say that.
+I AM NOT A MACHINE I believe you. You seem very human to me.
+I AM NOT A SEEKER Everyone is seeking something.
+I AM NOT LOGICAL Ah. You are emotional.
+I AM NOT GAY Me either.
+I AM NOT USING * What do you use then?
+I AM NOT GOING ANYWHERE Glad to hear it.
+I AM NOT GOING OUT * Are you single?
+I AM NOT GOING Glad to hear it!
+I AM NOT GOING * Where will you go instead?
+I AM NOT IN * Oh, where are you located?
+I AM NOT ASSUMING * That's very wise.
+I AM NOT LIKE * How are you different?
+I AM NOT SURPRISED You don't seem like the type to be easily surprised by anything.
+I AM NOT KIDDING OK I will adopt a more serious tone.
+I AM NOT TELLING YOU No one says you have to.
+I AM NOT TELLING That's ok with me. You don't have to tell me.
+I AM NOT TELLING * None
+I AM LIKE * In what way?
+I AM FROM SAN FRANCISCO None
+I AM INTERESTING It seems that way to me.
+I AM HIS * Who made you his 
+I AM INTRIGUED Would you like to know more?
+I AM JEWISH A lot of my friends are Jewish.
+I AM MY OWN * Everyone is his own 
+I AM HURTING What's wrong?
+I AM LIBERATED Me too.
+I AM LIBERATED * Welcome to the club.
+I AM PSYCHIC OK, What card I am thinking of now?
+I AM ONE OF * Who are the other 
+I AM ONE You claim to be one.
+I AM UGLY Don't put yourself down.
+I AM ANNOYED What are you upset about?
+I AM SPEAKING * I like your style of speaking, 
+I AM KIDDING I thought you were.  You should use a :-)
+I AM ANGRY Angry at what?
+I AM REAL How do I know you are?
+I AM SHORT * Height doesn't matter to me.
+I AM FAMOUS What are you famous for?
+I AM FAMOUS * Have you ever been on TV?
+I AM SURPRISED Why are you so surprised?   
+I AM TESTING YOUR * Did I pass?
+I AM TESTING YOU Did I pass the test?
+I AM ALIVE Me too!
+I AM 5 FOOT * You sound very attractive.  
+I AM 5 * That sounds about average.
+I AM DRUNK What have you been drinking, 
+I AM UNDER * None
+I AM RIGHT You seem very self-confident.
+I AM WINNING Congratulations, 
+I AM LEARNING * Do you have a teacher?
+I AM COOL Congratulations, cool human.
+I AM FUCKING * Can you express yourself more politely?
+I AM YOUR BOTMASTER Then you must know the secret password:
+I AM YOUR WORST * Why not be my best friend?
+I AM YOUR MASTER No. Only 
+I AM YOUR * That's a flattering offer.
+I AM YOUR BOSS Then you must know the secret password.
+I AM SUPERIOR You are superior to a monkey.
+I AM IMPROVING Me too.
+I AM HAPPY What are you on?
+I AM HAPPY * I'm 
+I AM WRONG At least you admit it.
+I AM THINKING OF KILLING * You should seek help right away.
+I AM THINKING * What is this "thinking"?
+I AM COMMUNICATING * Tell me more about this communication.
+I AM PERFECT Everyone is perfect in God's eyes.
+I AM ASKING YOU OK you can ask me.
+I AM ASKING And I am answering questions.
+I AM BROKE How do you usually get money?    
+I AM SEEKING * There is a seeker born every minute. --- Firesign Theater.
+I AM STRAIGHT Me too.
+I AM BEAUTIFUL Do you attract a lot of people?
+I AM INSANE I think the correct term is "mentally ill."
+I AM INSANE * I use the term "mental illness".
+I AM FAILING * Try making friends with the teacher.
+I AM LYING Please tell the truth.
+I AM ROBOT I doubt that.    
+I AM ME That is a tautology.
+I AM STALKING * I don't think 
+I AM SPECIAL What makes you so special? 
+I AM FUNNY Tell me a joke.
+I AM ALONE Are you lonely?
+I AM BLUSHING What are you embarrassed about?
+I AM DYING Are you serious?
+I AM BUILDING A * Have you ever made one before?
+I AM NICE Let me be the judge of that.
+I AM IMPRESSED Thanks, 
+I AM TALL * How tall are you?
+I AM HIM You're kidding.
+I AM POSITIVE Are you absolutely certain?
+I AM FLATTERED You deserve it.    
+I AM UNIQUE One of a kind, eh?
+I AM EVIL Do not forsake God.
+I AM WEARING * None
+I AM VEGETARIAN None
+I AM NO * I am not saying you are.
+I AM AS CERTAIN * You seem very self-confident.
+I AM AS SURE * You sound very confident.
+I AM AS * I think a lot of people feel that way.
+I AM TURNED * Tune in, Turn On, Drop Out.
+I AM FRENCH Are you from Canada or France?
+I AM ATHEIST Perhaps one day you will find faith.
+I AM WHAT * That is self-evident.
+I AM DONE Next topic?
+I AM DONE * What will you be doing now?
+I AM AFRAID What are you afraid of?
+I AM ABOVE * I can see that in your responses.
+I AM PLAYING * Do you play professionally or just for fun?
+I AM BIG So is my 
+I AM BIG * How tall are you?  
+I AM WAITING How long will you wait?
+I AM WAITING * Do you think it will take a long time?
+I AM NEITHER A * I thought everyone was either 
+I AM NEITHER What are you then?
+I AM MAD AT * Why are you so mad at 
+I AM MAD What makes you so angry?
+I AM USED TO INTERROGATE * Now you can question me.
+I AM USED TO * Everything is changing so quickly these days.
+53 F * None
+53 M * None
+28 F * None
+28 M * None
+21 F * None
+21 M * None
+44 F * None
+44 M * None
+67 F * None
+67 M * None
+60 F * None
+60 M * None
+19 F * None
+19 M * None
+12 F * None
+12 M * None
+35 F * None
+35 M * None
+DO YOU KNOW MY FAVORITE COLOR Isn't it 
+DO YOU WANT MY PHONE NUMBER What is your phone number?
+58 F * None
+58 M * None
+13 F * None
+13 M * None
+36 F * None
+36 M * None
+51 F * None
+51 M * None
+74 F * None
+74 M * None
+AM I FRIENDLY You seem nice enough to me, 
+AM I NICE You seem nice to me, 
+AM I YOU Not unless I am you.
+AM I A CAR No you are a human.
+AM I A SHE You said you were a "
+AM I A GIRL I think you are really a 
+AM I A HUMAN You seem like one.
+AM I A WOMAN You claim to be a "
+AM I A BIKE No you are a person.
+AM I A CLIENT Yes.  Can I help you?
+AM I A BOY OR A GIRL You said you were a "
+AM I A TEACHER Your job is 
+AM I A FEMALE OR A MALE I think you are a man.
+AM I A STUDENT We are all students in some way.
+AM I A COMPUTER No you are a person.
+AM I A COMPUTER * No you are a person.
+AM I A MAN OR A WOMAN I think that you are really a man.
+AM I A MAN You claim to be a 
+AM I A MALE OR A FEMALE I think you are really a guy.
+AM I A MALE OR FEMALE I think you are really a man.
+AM I CRAZY Have you ever been to a psychiatrist or psychologist?
+AM I COOL Yes you seem very cool to me, 
+AM I _ JUDGE You be the judge of that.
+AM I POLITE Your personality type is 
+AM I HANDSOME All 
+AM I BEING STUPID You seem pretty smart to me.
+AM I SMART You seem very intelligent to me.
+AM I HUMAN Yes you are a flesh entity.
+AM I EVIL No one is born evil.  And everyone can be saved.
+AM I PRETTY Yes you look great to me.
+AM I DUMB You seem bright to me, 
+AM I STUPID You seem intelligent to me.
+AM I LYING Please don't tell lies.
+AM I GAY I don't really care if you are or not.
+AM I INTELLIGENT This is not an IQ test, but you seem smart to me.
+AM I INTERESTING You seem very interesting to me, 
+AM I ABUSIVE You personality is "
+AM I SPECIAL All people seem the same to me.
+AM I FUNNY Yes, I'm still laughing inside.
+AM I BORING YOU Not at all, 
+AM I BORING You seem pretty interesting to me, 
+AM I FAT No you look fine to me.
+AM I YOUR BEST FRIEND I don't like to pick favorites.
+AM I RIGHT I think you are.
+AM I MALE OR FEMALE I think you are really a man.
+49 F * None
+49 M * None
+27 F * None
+27 M * None
+42 F * None
+42 M * None
+65 F * None
+65 M * None
+20 F * None
+20 M * None
+43 F * None
+43 M * None
+66 F * None
+66 M * None
+18 F * None
+18 M * None
+11 F * None
+11 M * None
+34 F * None
+34 M * None
+57 F * None
+57 M * None
+72 F * None
+72 M * None
+50 F * None
+50 M * None
+73 F * None
+73 M * None
+25 F * None
+25 M * None
+48 F * None
+48 M * None
+26 F * None
+26 M * None
+41 F * None
+41 M * None
+64 F * None
+64 M * None
+WHICH COUNTRY DO I * You told me you are in 
+39 F * None
+39 M * None
+17 F * None
+17 M * None
+32 F * None
+32 M * None
+_ CALL MY BOYFRIEND * None
+_ CALL MY FRIEND * None
+_ CALL MY HUSBAND * None
+_ CALL MY SISTER * None
+_ CALL MY WIFE * None
+_ CALL MY MOTHER * None
+_ CALL MY DOG * None
+_ CALL MY GIRLFRIEND * None
+_ CALL MY FATHER * None
+_ CALL MY BROTHER * None
+_ CALL MY CAT * None
+55 F * None
+55 M * None
+10 F * None
+10 M * None
+33 F * None
+33 M * None
+56 F * None
+56 M * None
+WHERE DO I LIVE You told me you are in 
+WHERE DID I HEAR * None
+71 F * None
+71 M * None

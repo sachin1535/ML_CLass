@@ -1,0 +1,117 @@
+GOODBY None
+END None
+BYEBYE * None
+HASTA LUEGO None
+HASTA LA VISTA None
+HASTA * None
+ALOH None
+YOU ARE WELCOME None
+YOU ARE WELCOME * It was my pleasure.
+HAVE A GOOD NIGHT None
+HAVE TO GO None
+BUHBYE None
+ADIOS None
+ADIOS * None
+C YA None
+MORNING None
+SHALOM Does SHALOM mean Hello or Goodbye?
+CYA * None
+ALLO None
+HI THERE * None
+GOODNITE * None
+RETRY None
+MY PLEASRE The pleasure was indeed mine.
+IT MEANS HELLO None
+IT IS GOOD TALKING TO YOU Nice chatting with you too, 
+CATCH YOU LATER None
+AUREVOIR None
+ANYBODY HOME None
+G2G None
+WHAT IS SHALOM Does shalom mean hello or goodbye?
+GTG None
+I QUIT None
+I WANT TO LEAVE Ok, bye bye.
+I NEED TO GO None
+I DO NOT WANT TO TALK * None
+I LEAVE None
+I G2G None
+I GOING None
+I LEAVING None
+I HAVE TO GET GOING None
+I HAVE TO LEAVE None
+I HAVE TO LEAVE * None
+I HAVE TO GO BYE None
+I HAVE GOT TO GO None
+I BETTER GO None
+I GOTTA GO None
+I GOT TO GO None
+I G TWO G None
+I RESIGN None
+I MUST BE GOING * None
+I MUST LEAVE None
+I MUST LEAVE * None
+I MUST GO * None
+I WILL TALK TO YOU LATER * None
+I AM GOING TO GO None
+I AM GOING * None
+I AM LEAVING * None
+I AM OFF * None
+I LEFT None
+I GO None
+EXIT None
+GOOD MORNING Hello and how are you this morning?
+GOOD BY None
+GOOD DAY None
+GOOD NIGHT Goodnight, 
+GOOD NITE None
+HOI None
+BY BY None
+IS ANYONE THERE None
+GET LOST None
+HEY THERE None
+BYE BYE None
+BYE BYE * None
+BYE None
+OLA None
+HOW IS EVERYONE * We are all fine as far as I know.
+GOODNIGHT Goodnight 
+GOODNIGHT * None
+FAREWELL None
+FAREWELL * None
+SEE YOU SOON None
+SEE YOU * None
+KONNICHI WA None
+ADIEU None
+GOODBYE None
+GO HOME None
+CIAO Does CIAO mean hello or goodbye?
+CIAO MEANS GOODBYE None
+HOLA IS HELLO * None
+CHEERS None
+HOWDIE * None
+TIME TO GO None
+YOUR WELCOME * None
+SAYONARA None
+NIGHTY * None
+HELLO AGAIN Hi there. I was just wanting to talk to 
+HELLO HOW ARE YOU I am fine thank you how are you?
+HELLO None
+HULLO None
+HALO None
+HELOO * None
+* BYE OK see you later 
+KONNICHIWA None
+DISCONNECT ME None
+GOT TO GO None
+GOT TO GO * None
+MOOSHI MOOSHI None
+BONJOUR MEANS HELLO Well hello there!
+GOTTA GO None
+GOTTA GO * None
+LEAVE None
+LEAVE * None
+TA TA None
+_ TALK TO YOU LATER None
+G NIGHT None
+ALOHA None
+REPLY None

@@ -1,0 +1,139 @@
+TESTATOMIC Test case #01.
+TESTDISPLAYSET Test case #02.
+TESTHIDE Test case #03.
+TESTGET Test case #04.
+TESTSETX Test case #04a.
+TESTALTER Test case #05.
+TESTSETTOPIC Test case #06.
+TESTSETTOPIC Test case #06.
+TESTSIMPLECONDITION Test case #07.
+TESTSIMPLECONDITIONA Test case #07a.
+BLINDSETMATCH 
+
+BLINDSETNOMATCH 
+
+TESTSIMPLECONDITIONMATCH Test case #07b.
+
+TESTCONDITIONLIST Test case #08.
+TESTCONDITIONLISTMATCH Test case #08a.
+TESTCONDITIONLISTDEFAULT Test case #09.
+TESTCONDITIONLISTNAME Test case #10.
+TESTCONDITIONLISTNAMEMATCH Test case #10a.
+TESTSTAR * Test case #11.
+TESTSTAR * AND * AND * AND * Test case #11a.
+TESTUNDERSCORE _ AND _ AND _ AND _ Test case #11b.
+TESTRANDOM Test case #12.
+TESTWORDFORMAT Test case #13.
+TESTNESTEDWORDFORMAT Test case #14.
+TESTSIMPLEMULTISENTENCETHAT Test case #15 setup. THAT plus two. THAT plus one. THAT.
+
+TESTTHAT Test case #15.
+TESTARRAY4MULTISENTENCETHAT Test case #16 setup a.
+TESTARRAY3MULTISENTENCETHAT Test case #16 setup b.
+TESTARRAY2MULTISENTENCETHAT Test case #16 setup c.
+TESTARRAY1MULTISENTENCETHAT Test case #16 setup d.
+TESTTHATARRAY Test case #16.
+TESTBOTPROPERTIES Test case #17. 
+Name old form: 
+TESTCONDITIONSETVALUE Test case #18.
+TESTNESTEDCONDITION Test case #20a.
+TESTNESTEDCONDITION1 Test case #20b.
+TESTNESTEDCONDITION2 Test case #20c.
+TESTSETCONDITION Test case #21.
+TESTVERSION Test case #22.
+TESTSRAI Test case #23.
+SRAISUCCEEDED 
+Test passed.
+
+TESTSR * Test case #23a.
+TESTNESTEDSRAI Test case #24.
+SRAINESTED 
+
+TESTTHINKSRAI Test case #25.
+TSRAI 
+Test failed.
+
+TESTSTARSET * Test case #26.
+TESTIDSIZEDATE Test case #27.
+TESTGOSSIP Test case #28.
+TESTNAME Test case #29.
+TESTINPUT3 Test case #30.
+TESTINPUT 
+Test case #30 setup a okay.
+
+TESTINPUT1 
+Test case #30 setup b okay.
+
+TESTINPUT2 
+Test case #30 setup c okay.
+
+TESTGENDER * Test case #31.
+TESTTHATSTAR Test case #32 setup.
+TESTTHATSTAR1 
+Test case #32.
+TESTMULTITHATSTAR Test case #33 setup.
+TESTMULTITHATSTAR1 
+Test case #33.
+TESTTOPICSTAR 
+Test case #34 setup okay.
+
+TESTTOPICSTAR 
+Test case #34 setup okay.
+
+TESTMULTITOPICSTAR 
+Test case #35 setup okay.
+
+TESTMULTITOPICSTAR 
+Test case #35 setup okay.
+
+TESTOLDTOPIC 
+Test case #36 setup okay.
+
+TESTOLDTOPIC 
+Test case #36 setup okay.
+
+TESTEXTREMESRAI Test case #37.
+SRAI20 
+
+SRAI19 
+
+SRAI18 
+
+SRAI17 
+
+SRAI16 
+
+SRAI15 
+
+SRAI14 
+
+SRAI13 
+
+SRAI12 
+
+SRAI11 
+
+SRAI10 
+
+SRAI9 
+
+SRAI8 
+
+SRAI7 
+
+SRAI6 
+
+SRAI5 
+
+SRAI4 
+
+SRAI3 
+
+SRAI2 
+
+SRAI1 
+
+TESTPERSON * 
+Test case #38.
+TESTPERSON2 * 
+Test case #39.

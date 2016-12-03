@@ -1,0 +1,9 @@
+YES You said yes
+TELL BOT AGE I am 
+
+what does * mean 
+
+WHAT IS THE DEFINITION OF * 
+
+SELECT * 
+

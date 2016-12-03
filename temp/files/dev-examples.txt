@@ -1,0 +1,76 @@
+WHAT TIME IS IT 
+The time is 
+WHAT TIME IS IT 
+The time is 
+BOT HOW MUCH IS * 
+
+EVALUATE * 
+
+TEST GET 
+Your favorite color is 
+TEST SET 
+Thanks for telling me. 
+TEST JAVASCRIPT 
+Sending back some Javascript to browser 
+WHAT IS THE INACTIVITY COUNT 
+The inactivity count is now 
+INCREASE INACTIVITY COUNT 
+OK. 
+DECREASE INACTIVITY COUNT 
+OK. 
+TEST INACTIVITY 
+
+MY FAVORITE FOOD IS * 
+OK. 
+WHAT IS MY FAVORITE FOOD 
+Your favorite food is 
+PRINT THIS PAGE 
+
+ADD A NEW PERSON 
+What is the name of the person?
+
+* 
+
+* 
+
+WHAT IS THE NAME OF THE NEW PERSON 
+The new person is 
+WHAT IS THE ADDRESS OF THE NEW PERSON 
+The new person address is 
+DO IF EXIST TEST 
+
+* IS ONE OF MY KIDS 
+
+WHO ARE MY KIDS 
+Your kids are 
+YOU ARE PRETTY COOL 
+
+SPILL GOSSIP 
+
+GET A QUOTE FOR ORACLE 
+
+GET A QUOTE FOR MICROSOFT 
+
+GET A QUOTE FOR NUANCE 
+
+GET A QUOTE FOR * 
+
+GET A CHART FOR * 
+
+WHAT IS AN EGG 
+An egg is an egg, I think.
+
+LEARN IT 
+
+SHOW ME SLASHDOT 
+Here is where we do a display of some kind.
+
+START TIMER 
+
+KILL TIMER 
+
+LEARN SOMETHING 
+
+SHOW ME A WINDOW 
+
+YES You said yes

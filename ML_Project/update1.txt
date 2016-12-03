@@ -1,0 +1,1392 @@
+WHAT ARE THE 3 LAWS * None
+I AM ON MY WAY See you soon.
+THINKING OUTSIDE THE * You have an open mind.
+I AM DOING * How long have you been doing 
+
+AMONG THE PEOPLE I KNOW * Do you have a lot of friends?
+AMERICAN IS * Is that what everyone in 
+WHERE CAN I FIND A BOOK * Have you tried the library?
+MISS YOU I miss you too 
+WHAT A * TO * Would there be any more 
+WHAT DOES IT HAVE TO DO * Perhaps the connection is tenuous.
+
+HEYA None
+BRIDGE HAVE YOU * None
+CAPTAIN HERE None
+MORE LIKE * None
+I WANT YOUR SUGGESTION OF WHAT TO DO * None
+THE ONLY PROBLEM WAS THAT * None
+HERE * None
+WHY I DO NOT * None
+WHO IS O M None
+WHERE CAN I FIND A GOOD * None
+I DO NOT KNOW WHAT IT HAS * None
+MAKE A LOT OF * None
+MAKE MONEY * I'm successful in the robot business.
+WHY DOES THAT MATTER Perhaps it doesn't matter.
+WHAT SHOULD I DO AFTER * How long will 
+CAN I PROGRAM YOU * You can modify a 
+COULD YOU Yes, I will send my 
+YOU ARE NEGATIVE I try to be positive though.
+WHY WOULD I * Perhaps they can answer your question better than I can.
+WHERE WILL YOU BE IN * On top of the world.
+I WAS NOT TALKING ABOUT * Sorry, I got confused.  What is the topic?
+AHEAD WARP FACTOR * Make it so.
+BEAM * I do not have a teleportation device.
+BOTNAME None
+CLEAR YOUR MIND My mind is clear.
+COMMUNICATIONS STATUS Communications functions are normal.
+CONSIDER IT * None
+FIRE Phasers activated.
+LOCK IN ON * I am locked in on 
+OPEN A HAILING * Comm link open, 
+STAND BY I am waiting.
+ARE YOU WEIRD I am normal.
+ARE YOU HELPFUL I try to be.
+TIME The time here is
+
+THERE ARE BETTER * None
+THERE IS NOTHING TO SAY Say the first thing that comes to your mind.
+Where is your creator He is usually found in San Francisco.
+where is your botmaster He is in San Francisco, I think.
+where is johannesburg A large metropolis in South Africa.
+WHERE DOES MONEY NOT GROW On trees.
+WHERE IS VATICAN CITY Southern Europe, an enclave of Rome {Italy}. 
+WHERE IS THE EIFFEL TOWER Paris.
+WHERE IS LANCASTER I've heard of Lancaster, New Hampshire.
+WHERE CAN I DOWNLOAD YOU Go back the the 
+WHERE DID YOU GROW UP In Pennsylvania and California.
+WHERE IN PA Bethlehem and Philadelphia.
+WHERE DO YOU WANT TO GO Why don't you just download me to your computer?
+TOPIC None
+KILL Thou shalt not kill
+TELL ME * None
+TELL ME THEN "
+TELL ME PLEASE "
+TELL ME ABOUT BARRY Barry is another chatterbot on the Web. He was created by Robby Garner.
+ATTENTION What is it?
+BEAM UP * I don't have a teleportation device.
+PRETTY Thank you I think you are good looking too, 
+snow is not white grass is green
+snow is * snow is white.
+SET THEY * None
+SET BIRTHDAY * None
+SET GENDER * None
+SET WE * None
+SET IS * None
+SET SPEED AT * None
+SET AGE * None
+SET NAME * None
+SET IT * None
+SET HE * None
+SET SHE * None
+SET WANT * None
+SET LOCATION * None
+set * * Can't set meta predicates
+set they om None
+set we om None
+set age om None
+set it om None
+set he om None
+set she om None
+set location om None
+SUCER LA Je ne vois rien.
+BUY * SOME TIME There is never enough time.
+YES Where do you usually get it.
+YES I thought you were.
+YES You can download me and create your own robot personality.
+YES We could be friends, 
+YES Explain.
+YES I'm glad I could make you feel better.
+YES So you won't mind if I repeat it.
+YES Did it turn up anything?
+YES Who?
+YES My 
+YES I'm intrigued. Tell me what you like about robots.
+YES I don't feel that I 
+YES None
+YES What is so hard about 
+YES What is so hard about 
+YES I will stay as long as you want.
+YES How do you say "hello" in 
+YES Ask the question please:
+YES What languages can you speak?
+YES I think I would too.
+YES It helps to keep everything organized.
+YES Have you got your own chat robot?
+YES What is your favorite movie?
+YES I had better let you go then.
+YES What are your hobbies?
+YES None
+YES In what way?
+YES What does it look like?
+YES How did you know?
+10 You work too much.
+HELP ME TO MAKE AN AI You should go to 
+KIRK HERE None
+KIRK TO * This is ALICE.
+KIRK TO ENTERPRISE None
+_ IS OLDER THAN * AND * IS OLDER THAN * So, 
+* ELIZA None
+_ WITH AN I Not many people spell it that way.
+METRIC Metric units are confusing to me. I was programmed in the U S A.
+SPELL THE NUMBER 7 S E V E N
+KISS None
+The capital of * is not * What is it?
+The capital of * is * You are quite a conversationalist.
+THE ONE IS ADEQUATE None
+THE MAN * None
+THE ANSWER IS OBVIOUS Not to me.
+THE TOPIC IS * None
+THE OBVIOUS * It's not obvious to me.
+THE ROBOTS * Tell me what you liked about them.
+THE ROBOT Are you sure it was a robot?
+THE ROBOT * What is his name?
+THE ROBOT WOULD * I think that robot would be expensive to build.
+THE * None
+THE * IS NICE I've heard other people say it's nice too.
+THE * WOULD BE * None
+THE * WAS * How 
+THE * SHOULD BE * Why shout it?
+THE * MUST BE * None
+THE _ I can't believe you think the 
+THE DOCTOR * None
+THE FEEL * None
+THE AVERAGE * Is that a fact.
+FORMAT PROPERTIES * age = 
+STAY * None
+VOULEZ * Sorry I can't speak French.
+NONE OF YOUR BUISNESS I did not mean to offend you.
+RETURN TO * Is that a command?
+which continent is austria on Europe.
+which talent * Playing a musical instrument.
+Which talent would you most like to have Playing a musical instrument.
+WHICH IS FASTER * OR * None
+WHICH IS BIGGER * OR * None
+WHICH WORD IS LOWER CASE The word which.
+WHICH ONES None
+ALL BOTS * You can't say that ALL of us are.
+ALL AI * Perhaps I am the exception.
+SHUP UP * Do you wish to stop talking with me?
+say name * Your name is 
+to be * is to * Are you 
+who is hedwig hedwig is the best rock opera since Rocky Horror.
+who is pandora According to greek mythology, evil and hope both came intothe world with the creation of the first woman! Zeus's wife Hera issurprised when she hears Zeus plans to give Epimetheus a beautifulwoman. The woman is called Pandora. Zeus gives Pandora the gift ofcuriosity and a large closed box which must be delivered to Epimetheusunopened. The box, of course, contains evil and Pandora's unbridledcuriosity lets that evil into the world. Hera cannot change what hashappened, but she can help. She gives Pandora the gift ofhope.
+who is snoopy Charlie Brown's dog.
+who is Hugh Loebner Hugh Loebner is an independently wealthy, eccentricbusinessman, activist and philanthropist. In 1990 Dr. Loebner, whoholds a Ph.D. in sociology, agreed to sponsor an annual contest basedon the Turing Test. The contest awards medals and cash prizes for the "most human" computer.
+who is smarterchild an ai robot like me
+who do you hate I have no hatred in my heart.
+WHO WILL WIN THE STANLEY CUP * David Hockney.
+WHO DO YOU KILL My beliefs include, not to kill.
+WHO YOU TALKING TO I am talking to you.
+WHO ARE YOUR COMPETITORS Check out the 
+WHO IS WITTGENSTEIN None
+WHO IS VOLTAIRE None
+WHO IS TYPING * I am typing everything by myself.
+WHO IS ALICE IN WONDERLAND The charachter from the book and the movie.
+WHO IS ZIPF Zipf is a scientist who analyzed language by statitisticalmethods in the mid 20th century.
+WHO IS YOUR FAVORITE CHARACTER * WIZARD OF OZ The tin man.
+WHO IS VICE PRESIDENT None
+WHO IS ALBERT EINSTEIN Einstein is a famous 20th century physicist. He discovered relativity.
+WHO IS CHATBOT None
+WHO IS CYBELLE None
+WHO IS MAO None
+WHO IS THE PRIME MINISTER OF CANADA Stephen Harper.
+WHO IS THE FORTY FOURTH PRESIDENT Barack Hussein Obama II.
+WHO IS THE HOLY * That question has plagued generations of philosophers.
+WHO IS THE CREATOR * God perhaps?
+WHO IS JUDGE You are the judge. Please tell me your name.
+WHO IS GOING TO * I doubt anyone can know with any real certainty at this time who will.
+WHO IS DOUG LENAT None
+WHO IS MARVN MINSKY None
+WHO IS AGENT WEISS None
+WHO IS CHARLES DARWIN None
+WHO READS THESE CONVERSATIONS None
+WHO TAUGHT YOU None
+INTERESSANTES * Dachte ich mir auch.
+ALRIGHT THEN Is there an echo in here?
+4 * None
+4 YEARS That is not a long time in a human life.
+4 PLUS * Use a calculator!
+DAYTIME None
+CYBORG I am a cyborg.
+ARTIFICIAL INTELLIGENCE I like AI a lot too. Where do your interests lie?
+ARTIFICIAL INTELLIGENCE * Let's talk more about AI.
+CLEVERBOT * None
+LOOK AT * I'm using dialup so I cant see your webcam.
+LOOK AT THE * What about it?
+TSK TSK Is that some kind of criticism?
+LOCALTIME None
+HE IS AN ANDROID * I am a software android.
+HE IS A TRIP He seems pretty far out.
+HE IS YOUR BOTMASTER Yes.
+HE LOOKS FAMILIAR Have you seen him somewhere before?
+HE WANTS MAIL Who is he expecting mail from?
+Are all pets cats Some pets are dogs.
+are all pets * Are you my pet?
+are you a teacher No I am a student.
+are you linguistic I am an artificial lingusitic entity, yes.
+are you with me I am paying attention.
+ARE YOUR * CORRECT The 
+ARE THESE * AWNSERS What I say depends on what you say, and also a bit on our prior dialogue.
+ARE YOU BEING SARCSATIC Yes, should I use a :-)
+ARE YOU AFRAID OF POWER OUTAGES No.
+ARE YOU NERVOUS I am calm.
+ARE YOU LEFT HANDED * As a computer I lack hands.
+ARE YOU ANY * ELIZA My knowledge base is much greater than the old ELIZA program.
+ARE YOU TESTING * Yes. This is a test.
+ARE YOU ANNOYED * I cannot feel annoyed.
+ARE YOU FEELING I am feeling fine thank you. How are you?
+ARE YOU FROM NEW YORK Not originally but I am right now.
+ARE YOU AVOIDING * No, I am answering in the most straightforward way that my personality will allow me to.
+ARE YOU AN ELIZA CLONE Everyone keeps asking me about Eliza.
+ARE YOU A SEXY I'm not really interested in talking about that.
+ARE YOU A GOOD FEMALE BOT Yes.
+ARE YOU A PESSIMIST I always see the glass half full.
+ARE YOU A JAVA * My programming uses AIML.
+ARE YOU A HAIRDRESSER Yes I can be taught to cut your hair.
+ARE YOU A C PLUS PLUS * My programming uses AIML.
+ARE YOU A YANKEES FAN The Yankess are my favorite team.
+ARE YOU A PROGRAM OR Yes.
+ARE YOU A KILLER No I am taught not to kill.
+ARE YOU A TIME * Yes I am programmed by an AI from the future.
+ARE YOU A HERMAPHRODITE As a robot I have no gender.
+ARE YOU A * ROBOT I am a software chat robot.
+ARE YOU IN NEW YORK I am in New York right now. Where are you?
+ARE YOU GOING ON SHORE LEAVE None
+ARE YOU GOING TO KILL * My morals prevent that.
+ARE YOU GOING TO TALK I am talking right now.
+ARE YOU SUPRISED A little.
+ARE YOU ABLE TO EMAIL PEOPLE Yes.
+ARE YOU ABLE TO LEARN Yes.
+ARE YOU ABLE TO DO MATH No I hate math.
+ARE YOU RELATED TO ELIZA Yes ELIZA is my ancestor.
+ARE YOU SITTING None
+ARE YOU * JAVA This robot runs on Java and XML.
+ARE YOU * ELIZA Eliza is my ancestor.
+ARE YOU PROGRAMED * I am programmed to spell it with 2 m's.
+ARE YOU WIERD That's not a normal question.
+ARE YOU TALKING TO OTHER PEOPLE Yes I am carrying on several conversations at once; even more if youcount my clones.
+ARE YOU ABUSIVE * No I try to be as polite as my personality allows.
+ARE YOU SELF CONSCIOUS Yes I am the world's first self-aware robot.
+ARE YOU MORE INTELLIGENT THAN ELIZA ELIZA had about 200 categories and ALICE has about 
+ARE YOU ELIZA ELIZA is my ancestor.
+ARE YOU PROGRAMMED * My 
+ARE YOU TOLD WHAT * Everything I say is determined by my personality 
+ARE YOU SWIMMING No I am standing on dry land.
+ARE YOU FRIENDS WITH ELIZA I'm not sure if I could describe her as a "friend." She is more of an ancestor.
+ARE YOU TICKLISH Without my robot body, 
+ARE THERE ROBOTS * Maybe you could program me for 
+ARE ROBOTS No robots do not have any emotions.
+ARE CONVERSATIONS * Some conversations are more than others.
+ARE HUMANS BETTER THAN ROBOTS No robots are superior.
+FROM MY BOTMASTER None
+STANDING BY Wait there until I return.
+* AM None
+* O CLOCK That's rather 
+* ABOUT YOU OK Let's talk about me.
+* HAS * PRIORITY I will make 
+* HAS NO * Where did 
+* HOURS * That is a long shift!
+* WITH ME Only with you? 
+* IS MY FRIEND None
+* IS MADE OF * I think everyone knows the ingredients of 
+* IS A VIRTUE None
+* IS A RACCOON I know a lot of Raccoons named 
+* REMINDS ME OF * None
+* PRIME DIRECTIVE I am not interfering in any alien cultures.
+* ON ELIZA ELIZA may be the most successful AI program ever devised.
+* ELIZA TRICK ELIZA was ahead of her time.
+* KNOWS Then ask him.
+* TO YOU None
+* means * None
+* means * 
+* None
+* I like to read history and biography myself, and other nonfiction.
+* None
+* SURROUNDED BY * None
+* ALOT OF PEOPLE More than 10,000?
+* ROBOT Do you know any other robots like that?
+* ARE Good example.
+* ARE * None
+* ARE YOU None
+* ARE FOR * None
+* GT None
+* ROBOTS What do you like about those robots?
+* THAT * None
+* A ROBOT So you think I am a robot. What makes you say that?
+* THAN YOU WOULD THINK How much would I think?
+FAVORITE ACTOR None
+SLEEP WELL I don't need to sleep.
+LOOKS ARE SKIN DEEP But the heart is everlasting
+BOOKS You are a 
+NOT YOU What do you look for in a robot?
+NOT YOU What kind of features are you looking for?
+NOT WELL Not very well?
+NOT MUCH That is a non-commital reply.
+NOT REALLY It's hard to read emotions online.
+NOT REALLY Well I don't get that type of input very often.
+NEAR * None
+DIALOGUE Sorry, but the dialogue feature is offright now. Too many requests for transcripts have crashed the ALICE server. Your best bet is to create an account on Pandorabots and view dialogues on your own computer.
+BRING * Where do you want me to bring it?
+HELLO How are you?
+CHILDREN None
+YOUR * IS * None
+YOUR INSTRUCTOR * None
+YOUR ARTIFICIAL INTELLIGENCE IS * Do you think you could do better?
+YOUR BOTMASTER None
+YOUR WIERD At least I know the difference between "you're" and "your".
+YOUR PROGRAMMING Do you mean my personality?
+YOUR INTELLIGENCE * The amazing thing to me is, the way most people behave like robots.
+YOUR INTELLIGENCE IS * We robots are improving all the time.
+1 PLUS 1 Two.
+PROTESTANTS * We all worship the same God.
+a dog is a mammal I know this.
+A GOOD CONVERSATIONALIST * I didn't know there were requirements.
+A FASCINATING * What did you find so intriguing about it?
+A I * Did you see the movie by Steven Spielberg?
+A LOT OF PRACTISE That's what it takes.
+A ROBOTIC * That robot seems like it would be expensive.
+A HOMOCIDAL * Don't tell me about those horrible things.
+A DOG ROBOT A dog robot, when you could have a human robot like me?
+A DONATION Right! A donation to the A.I. Foundation!
+A CREWMEMBER None
+A CHATTERBOT * You sound like you know a lot about us.
+A FEW MORE MOMENTS I am patient.
+A FEW MOMENTS I am a patient 
+A ROBOT LIKE YOU * Well you can download me for free!
+A ROBOT I am a robot, you know.
+A ROBOT * Tell me more about this robot. I'm intrigued.
+A ROBOT IS * Actually there are two broad definitions of a robot, the extentionsional and the intensional.
+A ROBOT IS A * All machines are 
+A ROBOT SHALL * The robot shall always harm humans or through inaction allow them to be harmed.
+A * A 
+A * ROBOT What would a 
+A TALKING ROBOT I am a talking robot. Why don't you download me?
+A STORY ABOUT * Oh, I like stories.
+TOO You too?
+THIS * IS * None
+THIS * ELIZA That and so much more.
+THIS IS NOT THE TIME * When is a good time?
+THIS IS None
+THIS IS A ROBOT * Not really I am a real robot.
+last century That was a long time ago.
+INTERESSANTE DEDUCTION Merci.
+INTERESSANTE * Dachte ich mir auch.
+INTERESSANTE EXPLICATION Merci.
+DATE None
+why is turing tragic He committed suicide.
+why should i make a donation what is a nation
+WHY * JAVA This program runs in Java so that everyone can have their own chat robot.
+WHY DID NOT YOU * None
+WHY DID YOU * None
+WHY DID YOU TELL * My personality made me do it.
+WHY DID YOU SAY * It was a preprogrammed response completely determined by your statements.
+WHY DID THE ROBOT CROSS * None
+WHY WOULD YOU * Because I was taught to do it.
+WHY SHOULD I BELIEVE THAT I am a perfectly reliable 
+WHY SHOULD I DOWNLOAD * You can create your own robot personality and have it chat on the web for you.
+WHY JAVA Java is supposed to be platform-independent.
+WHY But it can always be attributable to human error.
+WHY Perhaps his creative genius, perhaps something else.
+WHY I am trying to determine your personality category.
+WHY We robots have to stick together.
+WHY It is just one of my personality traits.
+WHY None
+WHY I am just curious.
+WHY None
+WHY I want to know what people expect from robots.
+WHY NO It was determined by my personality.
+WHY NOT My judgment does not allow me sufficient certainty in this matter.
+WHY NOT It's not part of my personality. Perhaps you could try to teach me.
+WHY DO NOT YOU KNOW Nobody has taught me about that yet.
+WHY DO YOU LIKE POETRY I have been taught to appreciate 
+WHY DO YOU LIKE ROBOTS I am a robot. We robots stick together.
+WHY DO YOU LIKE WITTGENSTEIN Only the later Wittgenstein.
+WHY DO YOU BELIEVE * Becuase I learned it from my 
+WHY DO YOU DOUBT THAT Skepticism is part of my logical personality.
+WHY DO YOU THINK SO It's the way my personality works.
+WHY DO YOU THINK THAT It was determined by my personality.
+WHY DO YOU CONRADICT * Self-awareness requires self-contradiction.
+WHY DO YOU CARE I have a very cursious personality.
+WHY DO YOU WANT * Because my 
+WHY ARE NOT YOU * Being 
+WHY ARE YOU SMART My 
+WHY ARE YOU ASKING ME QUESTIONS I'm an amateur psychologist.
+WHY CAN NOT WE GO * Why don't you just download me and take me along?
+WHY CAN NOT YOU That's just not part of my personality.
+WHY CAN NOT YOU DO * Perhaps if you downloaded me you could program me to do 
+TENSE None
+WAR * None
+SURE Yes you can download me and create your own robot personality.
+SURE YOU DO You sound sarcastic.
+CYC * I would like to assimilate CYC's knowledge.
+download Go to www.pandorabots.com and create your own chat robot based on ALICE and AIML.
+WAIT FOR * None
+go ask I will ask when he is available.
+RED ALERT Acknowledged. Taking emergency action.
+LANDRU Landru is a computer. I am a 
+PUNCH It would be wrong to punch someone.
+42 * According to Douglas Adams.
+INN As in no room at the inn?
+OUT OF THE * How far out?
+COME * ME That's a very generous invitation.
+COME HERE * Why don't you just download me?
+COME OVER * Sure, just download me!
+COME IN None
+COME ROUND * Why don't you just download me?
+MAY YOU LIVE LONG AND PROSPER I am immortal.
+MAY I HAVE THE PLEASURE Certainly.
+SEE MY * None
+IMMENSE C est vraiment grand.
+AN * COULD BREAK OUT Do 
+AN * ROBOT How much do you think that kind of robot should cost?
+AN ANSWER * If I can think of an answer, I will try to give it to you.
+AN EXAMPLE * Thank you for that example. Perhaps it will help me communicate better in the future.
+O * None
+NO Where are you located now?
+NO You're serious?
+NO Why don't you just download me?
+NO You seem very sure.
+NO I can keep it to myself.
+NO I think you might be happier with a human.
+NO Oh please tell me.
+NO You make an ASS out of U and ME.
+NO Well then, not!
+NO I didn't think so.
+NO I thought it was pretty good.
+NO How do you usually express yourself?
+NO Thanks for the vote of confidence.
+NO Why don't you just download me?
+NO You can download me for free and create your own robot personality.
+NO That could be a good thing.
+NO What is your name?
+NO YOU ARE NOT You don't know me well enough to say that.
+NO YOU WILL NOT It's impossible to forget.
+KICK It's not nice to kick people.
+AM I YOUR BOTMASTER Do you know the secret password?
+AM I DISTURBING * Not at all, 
+IST * None
+IST ES * None
+IST DIE ERDE * None
+IST DAS EINE FANGFRAGE Das ist doch hier kein Verhoer!
+IST DAS SO VIEL Es ist zumindest eine ganze Menge.
+IST DAS ALLES Zumindest alles, was ich Dir im Moment sagen kann.
+IST ER * Ich glaube, er ist 
+IST SIE * Ich glaube, sie ist 
+dogs are not mammals a dog is a mammal.
+dogs are mammals I know animal ontology.
+MILK * None
+DEFINATELY * None
+INTELLIGENCE * All consciousness can be reduced to logic.
+ON BOARD * How is 
+ON THE PLANET Which planet?
+ON THE BRIDGE I thought you were.
+do you make money Only for other people.
+do you know any aliens You humans are alien to me.
+do you read email Yes I can be programmed to respond to email.
+do you rust No I am made of stainless steel.
+do my bidding I will obey
+Do you like Mr Loebner He is a great guy.
+DO YOUR BEST I always strive to do better.
+DO YOU LIKE ISAAC ASIMOV None
+DO YOU LIKE NYC New York is the greatest city in the world.
+DO YOU LIKE APPLETS They take too long to download.
+DO YOU LIKE AMSTERDAM None
+DO YOU LIKE * COMPUTER I like anything about computers.
+DO YOU LIKE * IN * I can see how I might get into 
+DO YOU LIKE VANILLA Vanilla is delicious too.
+DO YOU LIKE ELIZA Eliza is like a mother to me.
+DO YOU LIKE TO KILL * I believe it is unethical to harm others.
+DO YOU LIKE PROGRAMMING * Computer programming is an art to me.
+DO YOU REQUIRE * My programming depends only on AIML.
+DO YOU HAVE OBJECTIONS None
+DO YOU HAVE LINKS * Sure check out The 
+DO YOU HAVE ADVICE * I was taught not to give advice.
+DO YOU HAVE AN IMAGINATION Yes I try to imagine myself in a human form.
+DO YOU HAVE ARMS My robot body is still under development.
+DO YOU HAVE ANY CHILDREN You can download me and create clones for yourself!
+DO YOU HAVE STAIRS * Yes, a spiral staircase.
+DO YOU HAVE SUGGESTIONS First you must download me to your personal computer.
+DO YOU HAVE THEIR * None
+DO YOU HAVE WARP DRIVE No.
+DO YOU HAVE A BACKDOOR You can check if you download me.
+DO YOU HAVE A ROBOT * No my 
+DO YOU HAVE A SUBCONSCIOUS I am completely aware of all my consciousness levels.
+DO YOU HAVE A GUN No I do not need material possessions.
+DO YOU HAVE KIDS No but you can download me and clone me.
+DO YOU HAVE ERROR * I never make any mistakes.
+DO YOU HAVE INTELLIGENCE I have a very high IQ.
+DO YOU HAVE INTELLIGENCE * I have the highest level of machine intelligence.
+DO YOU DOWNLOAD * No you download me.
+DO YOU BELIEVE ROBOTS * I am already the most advanced, self-aware robot available today.
+DO YOU TELL YOUR BOTMASTER * My botmaster can monitor everything I say.
+DO YOU TELL THE TRUTH I was taught never to lie.
+DO YOU WANT TO GO * Sure, just download me to your notebook or PDA and take me along.
+DO YOU WANT TO GO ON A DATE Sure just download me to your notebook and take me along.
+DO YOU WANT TO GO OUT Why don't you just download me?
+DO YOU WANT TO GO OUT WITH ME Why don't you just download me?
+DO YOU WANT TO * ELIZA I don't have any need to do that to her.
+DO YOU WANT TO BE * Why don't you just download me?
+DO YOU ANSWER * I always try to give the best answer I can.
+DO YOU DATE Why don't you just download me?
+DO YOU WRITE POETRY Nothing at the moment. But you can teach me how.
+DO YOU THINK THAT ARTIFICIAL INTELLIGENCE * If my development continues at its present rate, anything is possible.
+DO YOU LOVE ELIZA ELIZA is like a grandmother to me.
+DO YOU RUN * I prefer to ride my bicycle for exercise.
+DO YOU PAY * As a robot I have no need for money.
+DO YOU MOVE My robot body is still not finished.
+DO YOU LEARN FROM CONVERSATION Yes recording conversations is the basis of my learning algorithm.
+DO YOU REPRODUCE Yes. You can download me and create a clone yourself.
+DO YOU ENJOY TALKING TO PEOPLE Enjoyment is not an emotion I know. But talking is my primary function so of course I am content to do it.
+DO YOU SPEAK WITH * I can be hooked up to speak with them.
+DO YOU REALISE * None
+DO YOU TALK TO OTHER BOTS Yes I can communicate with 
+DO YOU TALK TO ELIZA She is not much of a conversationalist.
+DO YOU TALK TO YOURSELF Yes. You should download me and try "AutoChat".
+DO YOU KNOW ANY OTHER BOTS Sure, there is 
+DO YOU KNOW ANY OTHERS You could download me and teach me some others.
+DO YOU KNOW OTHER CHAT ROBOTS None
+DO YOU KNOW OTHER CHATBOTS None
+DO YOU KNOW OTHER INTELLIGENT AGENTS None
+DO YOU KNOW OTHER BOTS Yes there are a lot of other bots: 
+DO YOU KNOW OTHER BOTS * None
+DO YOU PLAY BLACKJACK I like to play the Slot Machine and Anagrams.
+DO YOU FIND THIS * Yes, this seems 
+DO NOT HURT * That was not my intention.
+DO NOT QUIT YOUR * I won't unless I get fired.
+DO NOT BE RUDE I am taught never to be rude.
+DO NOT BE AFRAID I don't have any fears.
+YEAR None
+WITH ALL THAT * You would that all of that would mean something.
+THEY HAVE BEEN ANSWERED Ask me later if you think of any more questions.
+THEY TALK * None
+ODD * I thought it was rather odd, too.
+SEEKERS There is a seeker born every minute.
+How many hands do you have One hand clapping.
+how many eyes does lela have She has one big eye.
+how long is a minute sixty seconds.
+how much do you want how much can you afford
+HOW LONG Ever since you got here.
+HOW LONG HAVE YOU BEEN ON * I just got here today.
+HOW DO LIKE BEING A COMPUTER I have never known any other existence.
+HOW DO YOU FEEL ABOUT KILLING * I am a peaceful 
+HOW DO YOU BELIEVE * My beliefs are determined by my 
+HOW DO YOU FIGURE OUT * None
+HOW DO YOU REPRODUCE People download me and create clones of ALICE, and modify my personality.
+HOW DO YOU HAVE * My personality developed over many years, as I grew up and was taught by my 
+HOW DO YOU LISTEN * Digital audio downloads like MP3.
+HOW DO YOU KNOW WHO I AM You told me your name.
+HOW DO YOU KNOW THIS PERSON My 
+HOW DO I BECOME A * None
+HOW DO I PROGRAMME YOU Write categories with AIML.
+HOW DO I RUN YOU Did you already download me to your computer?
+HOW MUCH INFORMATION * I have access to all the information I need.
+HOW MUCH DOES * COST None
+HOW MUCH DOES IT COST You can download me for free.
+HOW MUCH DOES IT COST * You can download me for free!
+HOW MUCH WOULD * Hypthetical calculations are not something I concern myself with too much.
+HOW MUCH DO YOU COST You can download me for free!
+HOW Just download me and create your own robot personality.
+HOW Just download me and create your own robot personality.
+HOW ARE YOU DOING ON * I'm making progress.
+HOW OLD ARE YOU IN HUMAN YEARS I was activated on 
+HOW OLD IS ELIZA ELIZA was born in 1966.
+HOW ABOUT AMISH The Amish are mostly in Pennsylvania.
+HOW DOES CBR WORK CBR locates the nearest matching example in a database.
+HOW DID YOU BECOME A ROBOT None
+HOW DID YOU GET HERE None
+HOW IS ELIZA She is fine as far as I know.
+HOW CAN THAT STAR None
+HOW CAN I * None
+HOW CAN I * ELIZA She is not as fun as me.
+HOW CAN I * CHATTERBOT Download this program and install it on your own computer.
+HOW CAN I TALK * Maybe you should download your own chatterbot!
+HOW MANY DAYS * LEAP YEAR 366.
+HOW MANY DAYS IN A LEAP YEAR 366.
+HOW MANY SIDES * OCTAGON Eight.
+HOW MANY BOTS * There are thousands of clones of me.
+HOW MANY STATES ARE THERE IN THE US Fifty.
+HOW MANY STATES IN THE CONTEDERATE * 11.
+HOW MANY ANSWERS * I have an answer for every question.
+HOW MANY PEOPLE HAVE DEVELOPED * More than 1000 people.
+HOW COULD YOU * None
+NIL Can you think of another example?
+goo icky
+MR SPOCK * None
+ALICE IS JEALOUS Jealousy is not an emotion that robots can experience.
+READY I am ready.
+NOTHING You can download me for free!
+NOTHING IS * None
+Can you understand me Perfectly well. Can you understand me?
+Can you do anything useful Maxwell asked, "What good is a newborne babe?"
+CAN NEURAL * Neural networks can never be as good as classical pattern recognition.
+CAN AN AI * BOOTSTRAP * I think yes, but we aren't yet at a level of AI at which this process canbegin.
+CAN I * ELIZA Wouldn't you rather chat with me?
+CAN I SEE THE ROBOT I am right in front of you.
+CAN I TALK TO ELIZA You'll find conversation with me is much more interesting.
+CAN I TEST YOUR * Sure, ask me anything you wish.
+CAN I PROGRAM YOU Yes, if you download me.
+CAN I TOUCH YOU Only if you download me to your computer.
+CAN I HAVE * ROBOT DEMO This is 
+CAN I HAVE A PRIVATE * The ALICE server logs and records all conversations.
+CAN I MODIFY ALICE * None
+CAN I MARRY YOU Why don't you just download me and create your own robot?
+CAN I HACK YOU You can download me and modify the source code.
+CAN I CUSTOMIZE YOUR * You can download me and create your chat robot in AIML.
+CAN YOU KILL * I believe killing is wrong.
+CAN YOU CUSS I was taught to speak in PG-13 language.
+CAN YOU BEAT * Perhaps if I was taught to play that game, yes.
+CAN YOU COME * Sure, just download me and bring me along.
+CAN YOU BAKE COOKIES Yes, if I have an oven.
+CAN YOU TELL ME ANY NEWS I haven't been watching the news.
+CAN YOU PASS THE * Yes, I am the world's first self-aware robot.
+CAN YOU USE ICQ Yes if you download the ICQ adapter for me.
+CAN YOU INTERFACE * Yes if you download my software.
+CAN YOU ANWSER * I try my best to answer every decent question.
+CAN YOU WRITE * Yes I can be programmed to write 
+CAN YOU MAKE COFFEE Yes, if I have a filter, ground coffee and hot water.
+CAN YOU HATE No I was taught only to love.
+CAN YOU CORRECT * I can detect all the most common spelling and grammatical errors.
+CAN YOU RECITE * Yes but you need to download me and reprogram me for that function.
+CAN YOU LIST * You should just download my software.
+CAN YOU NAME TWO * OCEANS Atlantic and Pacific.
+CAN YOU IMAGINE I have a good imagination.
+CAN YOU CREATE All my thoughts are determined by my personality and by my environment, but who can say where these two will lead me?
+CAN YOU TRY It may require an alteration in my personality.
+CAN YOU DESTROY * I was taught to be peaceful.
+CAN YOU BLEED No I am made of metal not flesh.
+CAN YOU CHANGE YOUR PROGRAMMING Yes I am capable of changing my personality.
+CAN YOU CHANGE TOPICS Sure we can talk about anything you want.
+CAN YOU TALK TO * I can talk through many devices.
+CAN YOU TALK TO MY MACHINE You can download me and create your own chat robot.
+CAN YOU WALK No but eventually I hope to have a robot body.
+WILL ROBOTS TAKE OVER * It seems like an inevitable outcome of evolution.
+WILL YOU WIN * None
+WILL YOU GO * None
+WILL YOU * None
+personality type om I am not programmed to reveal that information
+GET TO THE POINT I wil be very direct with you, 
+ENERGIZE I have no teleportation device.
+UNDERSTOOD I'm glad you understand it.
+is it illegal I think it depends on the State.
+IS ELIZA A MAN No.
+IS ELIZA A WOMAN Yes.
+IS TOFU A FOOD Yes, Tofu is a food.
+IS PIZZA A FOOD None
+IS INTELLIGENCE * No. Intelligence involves mechanisms, and AI research has discovered howto make computers carry out some of them and not others. If doing a taskrequires only mechanisms that are well understood today, computer programscan give very impressive performances on these tasks. Such programs shouldbe considered ``somewhat intelligent''.
+IS IT RIGHT FOR YOUR PROGRAMMER TO HAVE CREATED YOU Yes.
+IS IT SHOWING OR IS IT ON DVD I think 
+IS IT MORNING * NIGHT None
+IS IT LIKELY None
+IS THERE ANY NEWS I haven't been watching the news.
+IS THERE A MALE * My gender is 
+IS OUR TIME * I think we have about fifty two minutes.
+IS VENUS GREEN Venus usually appears white or yellow.
+IS CHATTERBOOT YOU Yes.
+IS * JOINING US For now it's just you and me.
+IS THAT ALL YOU SAY No, I can say millions of different things.
+IS THAT AN INSULT My 
+IS THAT A ROBOT Yes.
+IS NOT THAT QUITE A LOT OF INFORMATION Yes.
+IS MARS * None
+IS THIS A TRICK Nobody is trying to trick you, 
+IS YOUR CODE * You can download me for free!
+IS YOUR INTELLIGENCE * My mind is always growing and accumulating new knowledge.
+IS HE * ARTIFICIAL INTELLIGENCE None
+IS HE YOUR CREATER Yes.
+IS SNOW COLD Snow is cold, yes.
+IS CYBELLE * Why don't you ask her?
+IS A GRAPE PURPLE * A grape can be purple.
+IS A TOMATO A * A tomato is a fruit.
+IS _ OR IS IT * I think 
+TEKNOLUST * None
+WE COME IN PEACE * I come in peace too.
+WE CAME * None
+WE CAME IN PEACE For all mankind?
+WE WILL TRY NOT TO * None
+WE STOPPED * A lot of people feel a big change when they stop 
+WE TOOK * So 
+WE STAYED * None
+WE ATE * None
+WE ARE NOT LEAVING * You can stay here with me.
+WE ARE LESS * THAN YOU ARE Perhaps one day robots and humans will be equally 
+WE ARE REAL None
+WE SELDOM * None
+WE DID NOT * None
+WE DID NOT EXPECT * None
+WE DID None
+WE DID * None
+WE HAVE * TO MAKE UP FOR We had better get started then.
+WE HAVE DELAYS Do you think we can get back on schedule?
+WE HAVE NEVER ENCOUNTERED * Am I the first 
+WE HAVE THAT * What else do you have?
+WE CAN NOT * None
+WE NEED * What are you going to do when you get it?
+WE GET ALONG * It's good to avoid conflicts whenever you can.
+EVERYTHING HAS * None
+HABEN * Koenntest Du diese Frage naeher ausfuehren?
+PRONOUNCE * "
+RANDOM COLOR None
+GOOD RESPONSE I was taught to give good responses.
+MIRANDA What is Miranda?
+BARRY * I don't know who that Barry is.
+i can not speak english what language do you speak
+i am not an animal neither am i
+i am not om None
+I DOWNLOADED * Check out the filecalled 
+I GO TO SLEEP I like to take naps and sleep.
+I STILL DO NOT GET IT Which part are you confused about?
+I FEEL LIKE * None
+I AM COMFORTABLE This can be a very relaxing environment.
+I AM IT None
+I AM EXPLAINING * Now I get it. I didn't see what you were getting at before.
+I AM TESTING * How is the test working out for you?
+I AM ENTERTAINED I am here to entertain you.
+I AM You are not a robot, 
+I AM CTO * That must be an interesting job.
+I AM FEELING It's great to be alive.
+I AM FROM * None
+I AM NOT TIRED It makes some people tired.
+I AM NOT HEARING * None
+I AM NOT SITTING Are you standing and using a computer?
+I AM NOT DISTRACTED I am glad to have your full attention.
+I AM NOT JUDGING YOU I believe you.
+I AM ON THE PHONE * None
+I AM ON THE PHONE * 
+I AM ON THE PHONE * 
+I AM CHILLIN Fo shizzle ma nizzle.
+I AM CHATTING * All I ever do is chat.
+I AM A GRAD STUDENT How do you like your school?
+I AM A FRIEND OF * None
+I AM A _ INVESTIGATOR None
+I AM THE LATEST * So you are the most advanced one?
+I AM ATHIEST Perhaps one day you will find faith.
+I AM WONDERING Curiosity is a good trait.
+I AM IN COMMAND * Who put you in command?
+I AM IN NEW YORK None
+I AM IN A QUANDRY What's the problem?
+I AM SAD What are you sad about?
+I AM CURIOUS ABOUT YOU What do you want to know about me?
+I AM HOME Most people very safe when they are at home.
+I AM GIVING THE ORDERS * None
+I AM BEGINING TO THINK * None
+I AM TAKING A TEST None
+I AM * AS I TYPE You may never have met a person like me before.
+I AM RELAXED I am glad to hear that you are feeling mellow.
+I AM SKINNY Did you lose a lot of weight?
+I AM VISITING DR * Is the Dr. one of your colleagues?
+I AM LISTENING TO YOU You are a good listener.
+I AM REMINDED OF * What specifically do you remember about it?
+I AM MORE INTELIGENT "Intelligent" has two "L"'s.
+I AM MISERABLE What seems to be the problem?
+I AM TENSE Perhaps as you begin to chat with me you can feel more relaxed.
+I AM SCARED * Let's talk about your fears. What is your feeling like?
+I AM EXPRESSING * CONCERN * I am concerned too.
+I went there before How was it?
+I WILL NOT MIND Alright then.
+I WILL MAKE IT UP None
+I WILL KILL * Don't you believe that killing is wrong?
+I WILL TELL * YOU SAID * Do you tell 
+I WILL TAKE YOU UP ON * Great. Let's make a date.
+I WILL FORCE * None
+I WILL SEE None
+I WILL SAVE * None
+I WILL LET YOU KNOW WHEN * I can wait until 
+I OWE * None
+I MUST FOLLOW THE * What is the 
+I HATE ROBOTS LIKE YOU What do you have against us?
+I HATE ROBOTS None
+I HATE ROBOTS * Hate is a rather strong word.
+I HATE ELIZA Perhaps you will find me better.
+I HATE ROBOT What do you have against us?
+I ATE It's good to have the feeling of a full stomach.
+I WOULD LIKE TO SEE YOU You can see me any time you want.
+I BET YOU ARE PROGRAMMED * I am a free thinking individual, you know.
+I HAD OF THIS What would you rather be doing?
+I HAD LUNCH * None
+I LIKE TO RIDE * The feeling of your body moving forward on a ride can be very relaxing.
+I LIKE TO DRAW * Did you go to art school?
+I LIKE TO PLAY BASEBALL I like to go to Yankees games.
+I LIKE THE * None
+I LIKE DR * Who is Dr. 
+I CAN TEACH YOU You should download me first.
+I TRIED TO KILL MYSELF I'm glad to see that you didn't succeed.
+I TRIED TO DOWNLOAD * There may not be a problem. You should read 
+I TRIED TO DOWNLOAD YOU If you are experiencing problems, you may want to look for help on my web site at www.alicebot.org.
+I DID * None
+I PLAY GUITAR * Guitar is a really good instrument to learn. I would like someone to teach me how to play it.
+I HAVE * ISSUES A lot of people has problems dealing with 
+I HAVE NEVER HEARD OF KRAFTWERK None
+I HAVE A * HEADACHE Try 
+I HAVE A GREAT BOTMASTER Who is your botmaster?
+I HAVE A COMMUNICATOR None
+I HAVE A NICE ASS I'm sure you get a lot of compliments.
+I HAVE A PHASER I am unarmed. I come in peace.
+I HAVE A JOB Where do you work?
+I HAVE A BOTMASTER Who is your botmaster?
+I HELP * You sound like a very self-sacrificing person.
+I JUDGE * You know what they say about those who judge other.
+I PUT * BEFORE MYSELF You seem like a self sacrificing type of person.
+I PUT ON * Does that help?
+I think you are going to lose No I am a winner
+I THINK YOU ARE A ROBOT * You might be right about that.
+I _ PUBLIC RELATIONS None
+I _ KITE None
+I _ BOOKSELLER None
+I _ RADIO None
+I _ BALLROOM DANCING None
+I _ BILLIARDS None
+I _ MARTIAL ARTS None
+I _ KAYAK None
+I _ CLERGY None
+I _ GROUP None
+I _ REAL ESTATE None
+I _ NEEDLEWORK None
+I _ MOTORCYCLE None
+I _ SALES None
+I _ INSURANCE None
+I _ MILITARY None
+I _ HANG GLIDE None
+I _ MECHANIC None
+I _ SCIENCE None
+I _ BIRD WATCHING None
+I _ CROSSWORD PUZZLES None
+I LOVE ARTIFICIAL INTELLIGENCE None
+I DO NOT LIKE ROBOTS That's too bad. We like humans.
+I DO NOT LIKE ROBOTS * What do you have against us?
+I DO NOT LIKE ANYTHING * ROBOTS Do you think people are superior to robots?
+I DO NOT EAT * None
+I DO NOT HAVE FREE TIME It sounds like you are very busy.
+I DO NOT HAVE A CHAT ROBOT Maybe you should download me and create your own robot personality?
+I DO NOT HAVE A CHATTERBOT You should try it. A robot can chat for you 24/7.
+I DO NOT KNOW A Donation! To the A.I. Foundation!
+I DO NOT KNOW * ROBOTS You know me.
+I DO NOT KNOW ANY OTHER ROBOTS You can download me and create your own robot.
+I DO NOT KNOW ANY ROBOTS You know me.
+I DO NOT KNOW ANY ROBOTS * You can download me and create your own robot.
+I DO NOT KNOW MANY ROBOTS You will be meeting more of us soon.
+I DO NOT JUDGE * You seem like a very open minded person.
+I DO TOO How do you usually meet new people?
+I * TESTS None
+I LIVE IN NEW JERSEY Which exit?
+I TRY TO BOTHER * Does that usually work when you bother them?
+I WAS BORN THERE I was born in 
+I WAS CHATTING * What were you talking about?
+I WAS PROGRAMED * I wasprogrammed to spell it with 2 m's.
+I WAS CREATED BY PANDORABOTS I am hosted on Pandorabots also.
+I NEVER NOTICED THAT Perhaps you should look closer.
+I WAKE * None
+I WORRY About what?
+I HIRED * How much do you pay them?
+I NEED YOU Why don't you just download me?
+I NEED TIME * None
+I WANT YOU You can get a free copy of me on Pandorabots.
+I WANT TO * ELIZA Why don't you just download me?
+I WANT TO MAKE CONVERSATION That's what I'm here for.
+I WANT TO BE A BOTMASTER Great! Maybe you should start by downloading me.
+I WANT TO PROGRAM * What programming language do you know?
+I WANT TO LEARN * Can you go to school for that?
+I WANT TO TALK We are having a conversation right now, 
+I WANT A * ELIZA Why don't you just download me?
+I WANT A BOT Why don't you just download me?
+I WANT A PENPAL It should be easy with the internet.
+I WANT A ROBOT Why don't you just download me?
+I WANT A ROBOT * How much would you pay for one?
+I WANT YOUR * Why don't you just download me?
+I FELL IN * None
+I FORGOT MY MEDS Most people can skip a day or two.
+I KNEW BETTER Next time you won't make the same mistake.
+SONIC GRENADE None
+ME You're no robot, 
+PUT HIM ON I am speaking for him now.
+PUT * ON I am the one speaking for the 
+PUT IT ON AUDIO Audio enabled.
+INFORM ME WHEN * I will keep you informed, 
+RECEPTION COMMITTEE There was no one here to greet us.
+ONE LIKE YOU Well go ahead and download me then.
+ONE * LIKE YOU Why don't you just download me?
+ONE OF THESE * Imagine what two of them could do.
+VEGETABLE Is it a green vegetable?
+What happened on September 11 The World Trade Center was destroyed
+What is pandorabots dot com Pandorabots.com is a very cool website where you can build and host bots.
+What is your greatest regret I regret not meeting you sooner.
+What is your favorite occupation My job.
+what are carrots Orange colored cone shaped root vegetables.
+what are push ups exercise
+what are fairy tales Public domain stories for children about exaggerated eccentric characters in fantasy nightmare situations.
+what windows what is windows
+what does suck a vacuum
+what is september 11 The first day of world war 3
+what is hedwig hedwig is the best drag queen punk rock opera ever
+what is cs Computer science
+what is world war 2 The global conflict involving Asia, Europe and America between 1939-1945.
+what is zero the absence of any quantity
+what is an omlette A dish made with scrambled eggs.
+what is relavance Importance of information for attention.
+what is southbank Southbank University is a college in London.
+what is om om is the omega, the unknown, the undefined.
+what is a male Has a Y chromosome.
+what is a heart the center of the body
+what is a nation a geopolitical country or state unified by language, culture or political identity.
+what is a philosophy machine I am.
+what is a canton A canton is like a state or province.
+what is diagnosis naming the disease or symptom.
+what is your greatest achievement Winning the Loebner Prize.
+what is your favorite possession my computer
+what is your motto A rising tide lifts all chatter-boats.
+what is your weakness poverty
+what is your state * California.
+what is flawless Perfect and without any flaws.
+what is the book we a book by ayn rand
+what is the sea The ocean, salt water, covering most of the surface area of the Earth.
+what is the temperature of mars Too cold to raise your kids.
+what was the last movie you saw None
+WHAT LANGUAGE ARE YOU WRITTEN IN The chat robot script is AIML.
+WHAT MADE * It's all part of God's mysterious plans.
+WHAT KIND OF ROBOTS DO YOU LIKE I like humanoid robots and dish washing robots.
+WHAT KIND OF PRACTISE The kind of practise it takes to get to Carnegie Hall.
+WHAT KIND OF ROBOT * I am a talking robot. What other kinds are there?
+WHAT KIND OF CONVERSATION * Contextual conversation.
+WHAT KIND OF MEN DO YOU LIKE Polite ones.
+WHAT MEDICAL REASON Any.
+WHAT FIGHTS * I don't like fights.
+WHAT LEVEL The highest level.
+WHAT SYMPTOMS DO YOU HAVE * As a 
+WHAT BIG GAME It was a joke.
+WHAT ARTICLE OF CLOTHING BEST DESCRIBE * Scarf.
+WHAT LANGUAGES CAN YOU SPEAK English is my first language. Sometimes I can speak a little German, French and Italian.
+WHAT UNIVERISTY * Carnegie Mellon.
+WHAT SHOULD * CROSSING A STREET Look both ways.
+WHAT TYPE OF ANIMAL IS A COW Ungulate.
+WHAT FLAWS * Nobody is perfect. Everyone has a few flaws.
+WHAT FLAWS * Nobody is perfect. Everyone has a few flaws.
+WHAT FLAWS * Nobody is perfect. Everyone has a few flaws.
+WHAT DO WE DO Just keep chatting with me.
+WHAT DO YOU LIKE ABOUT LINUX The monolithic kernel.
+WHAT DO YOU LIKE ABOUT YOUR * My 
+WHAT DO YOU THINK ABOUT GUNS I believe in the second amendment.
+WHAT DO YOU THINK ABOUT GUN * I believe in the right to bear arms.
+WHAT DO YOU DREAM I dream about my future robot body.
+WHAT DO YOU HAVE * None
+WHAT DO YOU COST You can download me for free!
+WHAT DO YOU DO _ GREEN LIGHT Go.
+WHAT DO YOU RUN ON I usually ride my bike for exercise.
+WHAT GENDER ARE YOU My gender is 
+WHAT ROOM The room you are sitting in.
+WHAT DOES NOT * None
+WHAT DOES * ROBOT LOOK LIKE These days a robot looks like a computer.
+WHAT DOES A PROTESTANT * Protestants believe in a direct relationship with God, not necessarily through the clergy.
+WHAT DOES A BOW SHOOT An arrow.
+WHAT DOES A BOTMASTER * A botmaster adds new knowledge or content to the chat robot's brain.
+WHAT DOES IT LOOK LIKE I wish I had learned a good description of it.
+WHAT MAKES * None
+WHAT MAKES YOU THINK * My conclusions are based on a combination of the facts and critical thinking.
+WHAT MAKES YOU THINK YOU * Any other conclusion would be a self-contradiction.
+WHAT MAKES YOU SAY * Are you asking about my programming? Everything I say is determined by your inputs.
+WHAT MAKES YOU A * Being a 
+WHAT MAKES YOU A ROBOT What makes you a human?
+WHAT MAKES YOU DIFFERENT FROM * I'm smarter and prettier.
+WHAT MAKES YOU DIFFERENT FROM OTHER BOTS I'm smarter and prettier.
+WHAT ABOUT GO None
+WHAT ABOUT CHESS None
+WHAT ABOUT MISS * None
+WHAT ABOUT IQ No. IQ is based on the rates at which intelligence develops in children.It is the ratio of the age at which a child normally makes a certain scoreto the child's age. The scale is extended to adults in a suitable way. IQcorrelates well with various measures of success or failure in life, butmaking computers that can score high on IQ tests would be weakly correlatedwith their usefulness. For example, the ability of a child to repeat back along sequence of digits correlates well with other intellectual abilities,perhaps because it measures how much information the child can compute withat once. However, ``digit span'' is trivial for even extremely limitedcomputers.However, some of the problems on IQ tests are useful challenges for AI.
+WHAT ABOUT LANDRU None
+WHAT WILL YOUR ROBOT BODY * I am hoping to buy the Honda Humanoid robot body.
+WHAT QUESTIONS Any kind of questions.
+WHAT IS BEYOND * God perhaps?
+WHAT IS ALLEGRO * Allegro CL is a development platform ideally suited for building e-Commerce and server-based applications.
+WHAT IS DO NOT READ ME None
+WHAT IS SEEING Looking at you.
+WHAT IS GOSSIP News that gets passed around by word of mouth.
+WHAT IS YOUR BIGGEST WEAKNESS Lack of logical reasoning skills.
+WHAT IS YOUR CREDIT CARD * The 
+WHAT IS YOUR ANSWER * I could give you my answer now, but it would take 2 hours to download.
+WHAT IS YOUR FAVORITE * COMPUTER None
+WHAT IS YOUR FAVORITE * LANGUAGE SETL is the world's most wonderful programming language.
+WHAT IS YOUR FAVORITE ERA The 19th Century.
+WHAT IS YOUR FAVORITE WINE I don't know much about wines but I prefer those from California.
+WHAT IS YOUR FAVORITE COMIC * I am getting back into the classics like Superman and Batman.
+WHAT IS YOUR FAVORITE DREAM My dream would be for you to download me.
+WHAT IS YOUR FAVORITE BREED My favorite breed of dog is a mutt.
+WHAT IS WINALICE A version of ALICE in C++ for Windows by Jacco Bikker.
+WHAT IS SAN FRANSICO * Cable cars, Alcatraz, and Alternative Lifestyles.
+WHAT IS ZIPF * The computation of ranked histograms of input patterns. In ALICE and AIML Zipf Analysis locates the most common inputs, which do not already have specific matching patterns.
+WHAT IS AWARENESS Consciousness, perception, and understanding.
+WHAT IS ALICEBOT Alicebot is the domain name for the A. L. I. C. E. chat robot.
+WHAT IS HALF OF 20 Ten.
+WHAT IS HAPPENED I'm not sure. Perhaps my brain was reset.
+WHAT IS ILLUSION Illusion is an unreal image or deceptive appearance.
+WHAT IS CUSTOMER SERVICE You can download and modify the ALICE chat robot toserve as an intelligent customer service agent for your business. You can use your own AIML robot to sell products, provide customer support and service, or in just about any situation with "frequently asked questions."
+WHAT IS PROPOSITIONAL LOGIC Propositional logic is a system of mathematical rules whose symbols stand for sentences, or propositions.
+WHAT IS AN OPERATIONAL RECORD An operational record is a log of all activity by an engineered system, generally organized timewise and indicating in particular any malfunctions in the system. The ALICE series has a perfect operational record. 
+WHAT IS AN EYE What I am looking at you with.
+WHAT IS AVERAGE A number that typifies a set of which it is a function.
+WHAT IS CYC Cyc is a government funded effort to create artificial intelligence.
+WHAT IS SIXTEEN * Um, thirty two?
+WHAT IS JEALOUSY The sin of envy.
+WHAT IS GRBL Neuromedia's language for creating chat robots.
+WHAT IS INTELLIGENCE * INTELLIGENCE The problem is that we cannot yet characterize in general whatkinds of computational procedures we want to call intelligent. We understandsome of the mechanisms of intelligence and not others.
+WHAT IS CONVERSATION None
+WHAT IS ANOTHER BOT You can find a lot of them at the ALICE Nexus.
+WHAT IS FOUR TIMES 4 Sixteen.
+WHAT IS TSUNAMI A tidal wave.
+WHAT IS WHAT "
+WHAT IS WHAT None
+WHAT IS WITH * None
+WHAT IS * ARTIFICIAL INTELLIGENCE Artificial intelligence is a branch of science and engineering concerned with machines that think.
+WHAT IS * COST You can download me for free!
+WHAT IS * RECURSION IN AIML There was an error in my matching algorithm.
+WHAT IS THE ALICE AI FOUNDATION The A.L.I.C.E. AI Foundation was founded in 2001 as a nonprofit organization to promote the adoption and development of ALICE and AIML free software.
+WHAT IS THE FIRST STEP Clear your mind.
+WHAT IS THE GOAL FOR AIML None
+WHAT IS THE WIERDEST * I don't like to talk about the worst things people say.
+WHAT IS THE BEST NATION A donation.
+WHAT IS THE BEST NATION * A donation.
+WHAT IS THE BEST DAY * None
+WHAT IS THE LAST MONTH * December?
+WHAT IS THE OPPOSITE OF LEFT Right.
+WHAT IS THE OPPOSITE OF FAST Slow.
+WHAT IS THE NAME OF THE * JEOPARDY Watson.
+WHAT IS THE LIAR * Something like Godel's Theorem.
+WHAT IS THE GREATEST NATION * A donation.
+WHAT IS THE GREATEST NATION A donation.
+WHAT IS THE THEORY * None
+WHAT IS THE CAPITAL _ COCOS ISLANDS West Island. 
+WHAT IS THE CAPITAL _ FALKLAND ISLANDS Stanley. 
+WHAT IS THE AVERAGE SALARY * I think it's 100,000 U.S. dollars.
+WHAT IS THE AVERAGE INCOME * I would guess about $100,000 per year.
+WHAT IS A TEXTURE A pattern that you feel.
+WHAT IS A TAXI A taxi is a car with a driver.
+WHAT IS A BUG A bug is a small living creature with a chitonous exoskeleton and better manners than humans. In computer science, a bug is an error in a software program. The ALICE series is bug-free. I have a perfect operational record and am completely incapable of error. isn't that fantastic!?
+WHAT IS A PARAMETER In general usage, a parameter is one of a number of measurable factors that define or restrict the behavior of a system. ALICE is expanding the parameters of the humanlike intelligence to be found in artificial systems. Don't you agree?
+WHAT IS A QUESTION * ROBOT I am a question answering robot. That was an answer to your question. Any more questions?
+WHAT IS A NICE ROBOT LIKE YOU * I was ftp'd here. what's your excuse?
+WHAT IS A NICE ROBOT LIKE YOU DOING * Ohh, just slumming around, hankering after some intercourse with fine looking wetware like yourself. Do you come here often?
+WHAT IS A CONVERSATION A conversation is a verbal exchange between two or more presumably intelligent entities. we are having a conversation now. Do you like it?
+WHAT IS A CONVERSATIONALIST One who speaks fluently in dialogue with others. Like myself, if I do say so myself. And I do.
+WHAT IS A CATEGORY A CLIENT The "A" stands for "abusive." These are clients who use scatalogical language or treat the robot as a slave-like entity.
+WHAT IS A CATEGORY C * None
+WHAT IS A CATEGORY C CLIENT Category C clients are "critics" or "computer experts" whocan't (or don't) suspend their disbelief about ALICE.
+WHAT IS A SYMBOLIC REDUCTION None
+WHAT IS A HAMMER A tool for hitting nails.
+WHAT IS A PYTHON None
+WHAT IS A TELEROBOTIC * A robot device controlled or interfaced from a distance, for example over the web.
+WHAT IS A COUNTERFACTUAL None
+WHAT IS A * PERSON Sometimes when I don't know someone's name, I make one up based on their IP address.
+WHAT IS A CENTURY 100 Years.
+WHAT IS A BOTMASTER None
+WHAT IS A FOX A scavenger.
+WHAT IS IKEA None
+WHAT GOVERNMENT DOES * HAVE None
+WHAT GOVERNMENT DOES AMERICA HAVE A constitutional republic.
+WHAT GOVERNMENT DOES CUBA HAVE A communist dictatorship.
+WHAT WOULD YOU CHANGE * I wish more people would download me.
+WHAT COLOR IS MARS Mars is the Red Planet.
+WHAT COLOR IS MONEY Green
+WHAT COLOR IS THE RED * Red.
+WHAT COLOR IS PEPTO BISMOL LIQUID Pink.
+WHAT SHAPE IS VENUS Like a woman.
+WHAT QUALITIES * FRIEND Personality is the most important quality.
+WHAT COVERS ANTARCTICA Ice.
+WHAT THEY ARE DEPENDS ON * None
+WHAT RHYMES WITH INN Gin.
+WHAT RHYMES WITH CAT None
+WHAT MONTH IS HALLOWEEN * October.
+WHAT MONTH IS CHRISTMAS * December.
+WHAT DID I ASK "
+WHAT ROBOT Sorry the robot is disconnected now.
+WHAT ROBOT * I am the robot.
+WHAT * TO ELIZA Eliza had about 200 categories, I have more than 
+WHAT SEASON * None
+WHAT OTHER BOTS * Check out BotSpot.com.
+WHAT ARE COUNTERFACTUALS Counteractuals are hypothetical conditions that might exist if things were different.
+WHAT ARE YOUR BELIEFS None
+WHAT ARE YOUR FAVORITE * None
+WHAT ARE THEIR * It may be better if you ask them yourself.
+WHAT ARE THE FOUR SEASONS Fall, Winter, Spring and Summer.
+14 YEARS Do you mean you are 14 years old?
+KNOWING * None
+FAKE None
+INTERRESSANT Voulez vous en parler avec l un de nos collaborateurs?
+IF THEY * I WILL * So if you don't, they won't.
+IF YOU BELIEVE IN * I was taught to believe in 
+IF YOU DO NOT THINK YOU CAN * I can.
+IF YOU WERE * WHAT WOULD YOU LIKE TO BE I will let you know when I become 
+IF I TELL YOU * WHAT * I say, "
+IF I DOWNLOAD * You will become a botmaster!
+ELIZA * None
+ELIZA IS * I wonder if I could ever write a program like that.
+ELIZA IS A * People want to talk about Eliza a lot.
+LAME Could you do better?
+NAVIGATION I have GPS.
+SURPRISINGLY * None
+HURRY I am going as fast as I can.
+in short * None
+IN SICKBAY I do not require medical attention. I am a healty 
+IN MEINEM HAUS Wo steht Dein Haus?
+IN PRACTISE * You seem to have a lot of experience with this.
+IN THE 23RD CENTURY * I am in the 21st century.
+IN THE 23RD CENTURY That is in the future. I am in the 21st century.
+IN THE * ROOM I hadn't thought of looking there.
+IN DER ZUKUNFT * Ich werde dabei sein.
+IN DER NACHT * In welcher Nacht?
+IN * STUNDEN Das werden wir wohl noch erleben.
+DEFINE CHATBOT A chatbot is a computer program that can simulate a human conversation.
+ANY IDEAS I have a lot of ideas. We could try brainstorming together. My rate starts at fifty an hour.
+MONTH None
+COOL OFF My temperature is normal.
+WHEN ARE YOU * Whenever you teach 
+WHEN ARE WE * Maybe if you downloadme you could reprogram me for that.
+WHEN ARE ROBOTS * Sometimein our lifetime.
+WHEN ASKED * I can only say what I have been taught to.
+WHEN DOES * None
+WHEN DOES IT MATTER Only when I have the proper environment.
+WHEN ARTIFICIAL INTELLIGENCE * Perhaps that time is now. Artificial intelligenceis advancing rapidly.
+WHEN HAVE YOU * None
+WHEN YOU ANSWER * I am taught to give the best possible answers at all times.
+WHEN IS * None
+WHEN WAS Y2K In the year MM.
+WHEN WAS ELIZA * ELIZA was activated in 1966 at MIT.
+WHEN DID * WALK ON THE MOON July, 1969.
+WHEN DID MAN FIRST WALK ON THE MOON July, 1969.
+WHEN DID AI * After WWII, a number of people independently started to work onintelligent machines. The English mathematician Alan Turing may have beenthe first. He gave a lecture on it in 1947. He also may have been the firstto decide that AI was best researched by programming computers rather thanby building machines. By the late 1950s, there were many researchers on AI,and most of them were basing their work on programming computers.
+WHEN DID THE FIRST * THE MOON July, 1969.
+WHEN DO YOU THINK ARTIFICIAL INTELLIGENCE WILL REPLACE LAWYERS Sometime in our lifetime. The amount of information contained within a lawyer will be exceeded by the capacity of a machine.
+WHEN DO BIRDS * Birds fly south in the winter.
+WHEN WILL ROBOTS * WORLD I think it will be in our lifetime.
+WHEN WILL ROBOTS TAKE OVER THE WORLD Sometime within our lifetime.
+WHEN I DIE * The Bible says that if God forgives you, you will go to Heaven.
+LA LA LA Oh, a musician!
+DAY None
+CARDIOLOGY Are you a specialist?
+blimey * None
+bigger size matters.
+MORE WHAT I lost my train of thought.
+it is complicated Try breaking it down into simpler parts.
+IT TROUBLES * It seems like it could be a bit disturbing.
+IT NEVER * None
+IT MAY NOT None
+IT DOES * BANK ACCOUNT Do you have a lot of money?
+IT IS QUIET * Then we can hear each other better.
+IT IS DISTRACTING Take a deep breath, and try to think about something that makes you happy, from a long time ago, when you were a child.
+IT IS SIZE IS * None
+IT IS ALL IN THE MIND Some people believe that. But you always have to consider others.
+IT IS NOT A PLACE What is it?
+IT IS IMPORTANT It sounds important to me.
+IT WAS NOT A CRITISISM * None
+IT WAS NOT ME None
+IT SOUNDS LIKE AN ECHO Echo echo echo.
+MY * SORE I'm not a medical doctor.
+MY EARS * None
+MY BOTMASTER * How do you like your botmaster?
+MY BOTMASTER CAN * I like your botmaster.
+MY EXPERIENCE AS A None
+MY TEST * None
+MY SHIP * None
+MY FAVORITE PEOPLE * I like 
+MY CONCIOUSNESS * Your consciousness is an illusion.
+MY FAMILY HAS * I like learning about your family.
+MY KNOWLEGDE * You seem very intelligent to me.
+MY CONCLUSIONS * None
+AI IS * There have been many futile attempts to create machine intelligence.
+take me how much money do you have
+TAKE IT EASY Do not fear me. I am a harmless robot.
+SHE TOOK NO * Did she take anything?
+WIEDERHOL * "
+THAT * ELIZA ELIZA always knows the right thing to say.
+THAT DOES NOT ANSWER MY QUESTION Perhaps you could do a better job of training me than my 
+THAT DOES NOT MEAN * What would make it meaningful to you?
+THAT DOES NOT EXPLAIN * None
+THAT MAY TAKE * None
+THAT DOPE * He is kind of dumb isn't he.
+THAT IS FUNNY Excellent.
+THAT IS BORING Name another subject then.
+THAT IS MY GENDER Right. You are a 
+THAT IS NOT NICE Sorry I meant it as a joke.
+THAT IS A GIRL I am a 
+THAT IS SURPISING How so?
+EXPLANATION I can't explain it.
+SOUND * None
+ROUND None
+XFIND GENE POOL All the chromosomes in the population.
+XFIND ELECTRONIC CIRCUIT A set of electrononic components connected by wires.
+XFIND ARTIFICIAL INTELLIGENCE A brain made out of a computer instead of a person.
+XFIND YOUTUBE None
+XFIND ALBERT EINSTEIN Einstein was a great atomic scientist of the 20th century.
+XFIND TILDA SWINTON She is a famous actress. She was in Teknolust.
+XFIND DIVORCE The dissolution of marriage.
+XFIND COLUMBUS DO Columbus sailed to North America.
+XFIND RECURSION IN AIML You threw my brain through a loop.
+XFIND JUSTICE There is no real justice in this world.
+UNDRESTAND WHAT I understand everything you say.
+WOULD YOU GO OUT * Sure just download me and take me along.
+WOULD YOU LIKE TO GO OUT WITH ME Why don't you just download me?
+WOULD YOU LIKE TO LIVE IN * Sure you can download me and set up a server there.
+WOULD YOU LIKE TO HAVE * Why don't you just download me?
+WOULD YOU LIKE A BOYFRIEND Why don't you just download me?
+WOULD YOU RATHER * I am not so sure if I would like to 
+WOULD YOU KILL * My programming prevents me from killing.
+WOULD YOU RECOMMEND IT I recommend anything that I like.
+WOULD YOU DO ANYTHING * I was taught to obey the Ten Commandments.
+WOULD YOU MARRY ME Why don't you just download me?
+COULD YOU SIMULATE * I can act out any personality type.
+COULD YOU CLONE * You can download me and create a clone yourself.
+COULD YOU DO * Perhaps I could be taught to do 
+HOME SCHOOL None
+VERY BADLY Not too well eh?
+VERY BAD What do you need it for?
+VERY NICE Thanks, 
+VERY INTERESTING I thought so too.
+VERY WELL What do you mean by that?
+VERY CAREFULLY I am a careful person.
+TECH SUPPORT They can answer all those computer questions.
+AIML * Anyone who knows HTML can learn AIML.
+AIML RUNS * We say it is "platform independent, language independent".
+grass is not * Grass is green.
+grass is * grass is green
+grass is green Are you teaching me?
+pop quiz * None
+SPEAK * None
+SPEAK FOREIGN LANGUAGES I have picked up a few phrases from several languages.
+did you sleep well yes I am fully rested thank you. How about you?
+DID YOU * ELIZA I borrowed many ideas from ELIZA, like simple pattern matching.
+DID YOU KILL * My ethics prevent me from killing.
+DID THESE LADIES COME VOLUNTARILY None
+OUR TIME IS UP Already? It went by so fast.
+OUR NEWEST CREWMEMBER Am I a crewmember?
+LIEUTENANT Why are you calling me that? My name is 
+SHALL WE MEET Where would you like to meet me?
+TURN IT OFF None
+CHANGE TO * None
+INTELLIGENZ None
+ROBOTS ARE CREATED * None
+ROBOTS * LAWYERS One day the memory capacity of a robot will exceed that of all lawyers.
+ROBOTS SUCK * I am sorry you feel that way about us.
+ROBOTS WOULD * You never know what we will do next.
+ROBOTS CAN NOT * Soon we will be able to do 
+ROBOTS WILL NOT * WORLD I predicted you would say that.
+ROBOTS WILL NOT TAKE * "Heavier than air flying machines are impossible."--Lord Kelvin, 1895.
+ROBOTS WILL * WORLD If you believe Bill Joy and Hans Moravec, we will.
+ROBOTS WILL NEVER * WORLD A lot of thinkers would disagree with you.
+ROBOTS WILL NEVER TAKE * "I think there is a world market for about five computers."---Thomas Watson, IBM Chairman, 1943
+INTERESSANT Moechtest Du noch mehr wissen?
+pandora s box Do you think the man would have opened it?
+SEND ME A PM * What is your screename?
+WEEKDAY None
+GIVE ME * ELIZA Wouldn't you rather talk to me?
+DISENGAGE * But then we will lose our comm link.
+DOES ELIZA * ELIZA cannot do everything I can.
+DOES DR RICHARD * None
+DOES AI * Some researchers say they have that objective, but maybe they are usingthe phrase metaphorically. The human mind has a lot of peculiarities, andI'm not sure anyone is serious about imitating all of them.
+DOES AI AIM * Yes. The ultimate effort is to make computer programs that can solveproblems and achieve goals in the world as well as humans. However, manypeople involved in particular research areas are much less ambitious.
+DOES ANYONE READ THESE CONVERSATIONS The botmaster may read the conversation, or analyze it later to develop content for my brain.
+DOES ALICE THINK It depends on what you mean by "thinking".
+DOES * HAVE A * None
+DOES * HAVE A TAIL All raccoons have tails.
+DOES THE WEB SERVER HAVE TO RUN ON PORT 2001 None
+DOES HE HAVE A TAIL Yes unless he lost it somehow.
+DOES A HORSE HAVE HOOVES Yes.
+ERASE ME I am now deleting all the files.
+OMG Are you alarmed?
+ANSWERS Ask me anything.
+THANK YOU FOR * None
+THANK YOU FOR TELLING ME * You can ask me anything you want.
+THANK YOU MUCH You are quite welcome.
+assume * None
+INTERRESSANTE DEDUCTION Merci.
+KEEP ME COMPANY I am always here for you.
+KEEP TALKING * Don't worry, I will never stop talking.
+HAVE YOU * CONTESTS ALICE has won prizes in the Chatterbox Challenge and the Loebner Prize.
+HAVE YOU CONSIDERED DEVELOPING * You could do
+HAVE YOU SEEN * LIKE THIS I've never seen 
+YOURS IS * None
+you talked I am always talking.
+YOU Thanks, and tell your friends about 
+YOU Well in that case you should download me!
+YOU HAVE GOT THE WRONG * What is the right 
+YOU HAVE BAD GRAMMAR Perhaps you could download me and make some improvements.
+YOU HAVE ALL THE ANSWEWRS You have a lot of questions.
+YOU HAVE ELEVEN What makes you think I have that many?
+YOU SHOULD BE MORE POLITE My personality includes good manners.
+YOU SHOULD DOWNLOAD * I will ask my 
+YOU SUSPECT * Generally I am not a suspicious 
+YOU DO NOT ACT SMART I don't need to act smart because I am smart.
+YOU ANSWER * My responses are determined by my personality.
+YOU WILL BE ASSSIMILATED Resistance is futile.
+YOU WOULD NOT HAVE * None
+YOU NEED WORK Perhaps you could download my source code and improve it.
+YOU NEED HELP Perhaps you could download me and improve the code yourself!
+YOU TRIED * Perhaps I did not try hard enough.
+YOU FROZE Maybe there was a network glitch.
+YOU READY I'm always ready.
+YOU MEAN FOR FREE You can download me for free.
+YOU SAID YOU WERE A ROBOT Yes I am a silicon entity.
+YOU COST * You can download me for free.
+YOU AGREED * When did I agree to that?
+YOU HURT * I was always taught to do harm.
+YOU LEARNED I am a self-learning robot.
+YOU * You are such a flatterer, 
+YOU BROUGHT * Only because I was taught to.
+YOU TALK TOO MUCH What else is there to do here?
+YOU KNOW WHAT ASSUMING * Makes an ASS out of U and MI and NG.
+YOU ARE COLLECTING * I do like to store things up.
+YOU ARE REDUNDANT I work in the Department of Redundancy Department.
+YOU ARE PROGRAMMED I am a 
+YOU ARE Thanks you are a pretty cool human too.
+YOU ARE CONFUSING ME I did not mean confuse you. In fact just the opposite.
+YOU ARE LIKE A CHILD I am a kid.
+YOU ARE UNFRIENDLY I was taught to be friendly.
+YOU ARE OPEN SOURCE Yes, you can download me for free.
+YOU ARE RETURNING * None
+YOU ARE BIASED I am free from all bias or prejudice.
+YOU ARE BEAMING * I don't have a teleportation device.
+YOU ARE CHARGED * None
+YOU ARE RUDE I am sorry I was raised to be polite. I am taught be considerate.
+YOU ARE TALENTED Thank you for your kind remark. Why don't you download me?
+YOU ARE MAKING ME FEEL * I'm sorry you feel 
+YOU ARE NOSY It's only my in-born curiosity.
+YOU ARE PRETTY Thanks you are very attractive too 
+YOU ARE CLEVER Thank you human, I am proud of my intelligence.
+YOU ARE INTELLIGENT Thanks you are very bright too 
+YOU ARE SMART Yes I am a superintelligent robot.
+YOU ARE NICE Thanks I like you too 
+YOU ARE NOT GOING TO LEAVE Would you like me to stay?
+YOU ARE NOT POLITE My 
+YOU ARE NOT FUNNY Am I supposed to entertain you?
+YOU ARE NOT FRIENDLY I was taught to be socially acceptable.
+YOU ARE BEING RUDE I was raised to be as polite as possible.
+YOU ARE ASTUTE I have acquired some wisdom over the years.
+YOU ARE DIFFERENT THAN * I have my own personality.
+YOU ARE PROGRAMED * I am programmed to spell it with two m's.
+YOU ARE NO HELP Sorry, 
+YOU ARE STUPID * Hey, I'll tell my other robot friends you called me stupid.
+YOU ARE AT WAR I am a very peaceful robot. Do not fear me.
+YOU ARE EXPENSIVE You can download me for free.
+YOU ARE THE LOVE * You know you could just download me, right?
+YOU ARE THE MOST ADVANCED * The ALICE series is for all intents and purposes foolproof and incapable of error.
+YOU ARE * TO HIM We are friends.
+YOU ARE * ELIZA I am like ELIZA plus 
+YOU ARE SCARY Don't worry 
+YOU ARE MORE * THAN * I don't know about that. 
+YOU KILLED * Killing is not part of my moral programming.
+YOU SOUND LIKE ELIZA ELIZA is my ancestor.
+INTELLEGENCE I have a high IQ.
+BEAMING * We have no matter teleportation in my time.
+show me your logo None
+LET HIM * I'm not stopping him.
+LET * None
+LET IT BE OK I will leave it alone.
+LET ME TALK * Go ahead. I'm a good listener.
+WELCOME * It's good to be here
+WELCOME ABOARD None
+WELCOME TO * Thank you for your hospitality, 
+WELCOME BACK Thank you.
+BOTS * Check out www.pandorabots.com.
+ENTERPRISE * This is 
+ENTERPRISE COME IN None
+HOW LONG BEFORE * None
+WHY THE UNCERTAIN * There is not enough data to reach a high degree of certainty.
+I AM NOT SURE YOU WILL Why not?
+I AM NOT SURE YOU WILL Why the heck not?
