@@ -1,0 +1,6 @@
+SHOW STACK top=" 
+POP None
+POPOM OM None
+POPOM * None
+RANDOM TOPIC None
+PUSH * None

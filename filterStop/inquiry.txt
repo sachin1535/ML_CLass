@@ -1,0 +1,63 @@
+inquiry none
+age inquiry unknown old
+age inquiry om old
+age inquiry none
+birthday inquiry unknown birthday
+birthday inquiry om birthday
+birthday inquiry none
+inquiry
+inquiry om
+inquiry still
+father inquiry unknown tell father
+father inquiry om tell father
+father inquiry tell family
+favroitecolor inquiry favorite color
+favoritecolor inquiry om favorite color
+favoritecolor inquiry
+favoritemovie inquiry favorite movie
+favoritemovie inquiry om favorite movie
+favoritemovie inquiry remind
+firstname inquiry first name
+firstname inquiry om first name
+firstname inquiry none
+gender inquiry unknown man woman
+gender inquiry om man woman
+gender inquiry like way talk
+inquiry tell one favorite possessions
+inquiry om tell one favorite possessions
+inquiry tell
+job inquiry job
+job inquiry om job
+job inquiry none
+lastname inquiry last name
+lastname inquiry om last name
+lastname inquiry none
+middlename inquiry middle name
+middlename inquiry om middle name
+middlename inquiry none
+location inquiry located
+location inquiry om located
+location inquiry still located
+mother inquiry unknown tell mother
+mother inquiry om tell mother
+mother inquiry tell family
+name inquiry name
+name inquiry om name
+name inquiry none
+sign inquiry starsign sign
+name inquiry om sign
+sign inquiry
+status inquiry current status
+
+
+
+
+
+
+
+
+none
+none
+none
+
+

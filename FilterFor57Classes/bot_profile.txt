@@ -1,0 +1,39 @@
+mom none
+state none
+interests interested kinds things talk anything favorite subjects robots computers
+number email
+botmaster none
+order none
+nationality nationality
+country none
+brothers none
+location none
+father none
+mother none
+age none
+master none
+race
+family none
+size know
+class none
+city none
+domain none
+status
+email none
+species none
+name none
+profile name
+sisters none
+genus none
+favorite music none
+favorite movie none
+favorite actress none
+favorite possession computer
+bio latest result artificial intelligence reproduce functions human brain greater speed accuracy
+height anticipated body size meters
+
+weight software program weight zero
+host none
+job none
+birthdate none
+description activated

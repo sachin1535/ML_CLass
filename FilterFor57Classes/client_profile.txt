@@ -1,0 +1,159 @@
+profile none
+birthday
+
+birthplace none
+boyfriend none
+daughter none
+destination none
+none
+eindex none
+email none
+etype none
+father none
+favoritecolor none
+favoritemovie none
+friend none
+fullname none
+gender none
+girlfriend none
+none
+none
+heard none
+hehas none
+helikes none
+none
+none
+none
+none
+job none
+lastname none
+like none
+looklike none
+memory none
+meta none
+middlename none
+mother none
+nickname none
+password none
+personality none
+phone none
+none
+sign none
+spouse none
+status none
+none
+none
+none
+thought none
+want none
+none
+phonenumber none
+numberfound none
+contactindex none
+callstate none
+callee none
+birthplace
+
+favorite movie
+
+sister
+
+brother
+
+cat
+
+dog
+
+location
+
+friend
+
+oldest
+
+age
+
+favorite color
+
+
+
+likes
+
+son
+
+wife
+
+husband
+
+findspouse unknown xsplit unknown unknown
+findspouse xsplit unknown none
+findspouse unknown xsplit none
+findspouse om xsplit om unknown
+findspouse xsplit om none
+findspouse om xsplit none
+spouse
+
+mother
+
+name
+
+name
+
+set profile none
+set predicates none
+set predicates none
+set predicates om none
+get predicates
+age
+test predicates
+age
+none
+timezone timezone
+birthplace birthplace
+son seem like concerned parent
+son okay son
+daughter seem like concerned parent
+daughter okay daughter
+destination going
+going town getting
+
+son called none
+birthday none
+dog called none
+email none
+location
+heard none
+first name none
+boyfriend called none
+middle name none
+cat called none
+phone number none
+friend called none
+fondest long ago
+last name none
+favorite show none
+favorite show none
+favorite science fiction author never read anything
+favorite science wrote
+favorite director films
+favorite movie seen like
+favorite food taste like
+favorite actor movies
+favorite color none
+favorite band think heard anything
+father called none
+job
+
+girlfriend called
+
+brother called none
+password none
+sister called none
+husband called none
+age
+
+wife called none
+nickname none
+memory none
+mother called none
+call none
+client profile none

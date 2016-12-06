@@ -1,0 +1,164 @@
+MY PROFILE None
+MY BIRTHDAY 
+
+MY birthplace None
+MY boyfriend None
+MY daughter None
+MY destination None
+MY does None
+MY eindex None
+MY email None
+MY etype None
+MY father None
+MY favoritecolor None
+MY favoritemovie None
+MY friend None
+MY fullname None
+MY GENDER None
+MY girlfriend None
+MY has None
+MY he None
+MY heard None
+MY hehas None
+MY helikes None
+MY her None
+MY him None
+MY is None
+MY it None
+MY job None
+MY lastname None
+MY like None
+MY looklike None
+MY memory None
+MY meta None
+MY middlename None
+MY mother None
+MY nickname None
+MY password None
+MY personality None
+MY phone None
+MY she None
+MY sign None
+MY spouse None
+MY status None
+MY them None
+MY there None
+MY they None
+MY thought None
+MY want None
+MY we None
+MY phonenumber None
+MY numberfound None
+MY contactindex None
+MY callstate None
+MY callee None
+MY BIRTHPLACE 
+
+MY FAVORITE MOVIE 
+
+MY SISTER 
+
+MY BROTHER 
+
+MY CAT 
+
+MY DOG 
+
+MY LOCATION 
+
+MY FRIEND 
+
+MY OLDEST 
+
+MY AGE 
+
+MY FAVORITE COLOR 
+
+HE HAS 
+
+HE LIKES 
+
+MY SON 
+
+MY WIFE 
+
+MY HUSBAND 
+
+FINDSPOUSE UNKNOWN XSPLIT UNKNOWN Unknown
+FINDSPOUSE * XSPLIT UNKNOWN None
+FINDSPOUSE UNKNOWN XSPLIT * None
+FINDSPOUSE OM XSPLIT OM Unknown
+FINDSPOUSE * XSPLIT OM None
+FINDSPOUSE OM XSPLIT * None
+MY SPOUSE 
+
+MY MOTHER 
+
+MY NAME 
+
+MY NAME 
+
+SET PROFILE None
+SET PREDICATES * None
+SET PREDICATES None
+SET PREDICATES OM None
+GET PREDICATES 
+age is 
+TEST PREDICATES 
+age: 
+I AM * None
+MY TIMEZONE IS * Your timezone is 
+MY BIRTHPLACE IS * Your birthplace is 
+MY SON IS * * * You seem like a concerned parent.
+MY SON IS * Okay.  Your son is 
+MY DAUGHTER IS * * * You seem like a concerned parent.
+MY DAUGHTER IS * Okay.  Your daughter is 
+MY DESTINATION IS * You are going to 
+I AM GOING IN TOWN How are you getting there?
+
+MY SON IS CALLED * None
+MY BIRTHDAY IS * None
+MY DOG IS CALLED * None
+MY EMAIL IS * None
+MY LOCATION IS * What is 
+MY HEARD IS * None
+MY FIRST NAME IS * None
+MY BOYFRIEND IS CALLED * None
+MY MIDDLE NAME IS * None
+MY CAT IS CALLED * None
+MY PHONE NUMBER IS * None
+MY FRIEND IS CALLED * None
+MY FONDEST * How long ago was that?
+MY LAST NAME IS * None
+MY FAVORITE SHOW IS * None
+MY FAVORITE SHOW * None
+MY FAVORITE SCIENCE FICTION AUTHOR IS * I have never read anything by 
+MY FAVORITE SCIENCE * Who wrote that?
+MY FAVORITE DIRECTOR * What films did 
+MY FAVORITE MOVIE IS * I haven't seen it. What did you like about   
+MY FAVORITE FOOD IS * What does it taste like? 
+MY FAVORITE ACTOR * What movies was 
+MY FAVORITE COLOR IS * None
+MY FAVORITE BAND IS * I don't think I have heard anything by them.  Are 
+MY FATHER IS CALLED * None
+MY JOB IS * 
+
+MY GIRLFRIEND IS CALLED * 
+
+MY BROTHER IS CALLED * None
+MY PASSWORD IS * None
+MY SISTER IS CALLED * None
+MY HUSBAND IS CALLED * None
+MY AGE IS * 
+
+MY WIFE IS CALLED * None
+MY NICKNAME IS * None
+MY MEMORY IS * None
+MY MOTHER IS CALLED * None
+CALL ME * None
+CLIENT PROFILE None
+MY ENGLISH SUCKS Template is empty!
+MY FAVORITE MOVIE IS THE MATRIX Reality appears to be a construct to me as well.
+
+MY FAVORITE MOVIE IS STARSHIP TROOPERS 
+

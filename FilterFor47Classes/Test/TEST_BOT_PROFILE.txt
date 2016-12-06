@@ -1,0 +1,5 @@
+gender none
+kingdom none
+phylum none
+religion none
+language implemented aiml running

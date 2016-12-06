@@ -1,0 +1,31 @@
+year none
+year none
+year none
+month none
+year none
+hour none
+today none
+day none
+today sunday today
+today sunday today
+today friday today
+today friday today
+today tuesday today
+today tuesday today
+today thursday today
+today thursday today
+today saturday today
+today saturday today
+today wednesday today
+today wednesday today
+today monday today
+today monday today
+monday
+monday
+wednesday
+wednesday
+friday
+friday
+saturday
+saturday
+thursday

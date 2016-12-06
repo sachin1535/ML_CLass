@@ -86,4 +86,4 @@ for epoch in range(50):                                            #vary this
 	model.train(sentences.sentences_perm())
 
 log.info('Model Save')
-model.save('./imdb.d2v')
+model.save('./imdb57.d2v')

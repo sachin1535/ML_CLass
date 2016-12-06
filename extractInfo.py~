@@ -1,0 +1,25 @@
+import os;
+path = '/home/mw4vision/Downloads/word2vec-sentiments-master/ML_Project/'
+testPath = '/home/mw4vision/Downloads/word2vec-sentiments-master/ML_Project/Test'
+sources = dict()
+fd = open('detailInfo.txt','w');
+for fn in os.listdir(path):
+	if fn.endswith('.txt'):
+		ftrain = open(path+fn,'r');
+		sentencesList = ftrain.readlines()
+		count = len(sentencesList);
+		fileparts = (fn.split('.'))[0]
+		ftrain.close()
+		ftrain = open(path+fn,'w');
+		if (count-5) > 0:
+			ftest = open(testPath+"TEST_"+fileparts.upper()+".txt",'w');
+			print(sentencesList[count-5:count]);		
+			for line in sentencesList[count-5:count]:
+				ftest.write("{}".format(line));
+			ftest.close();
+			for line in sentencesList[0:count-5]:
+				ftrain.write("{}".format(line));
+		sources[str(path+fn)] = str(fileparts.upper());
+		fd.write("{}\t{}\t{}\n".format(str(path+fn),fileparts.upper(),count));
+		ftrain.close()
+fd.close();

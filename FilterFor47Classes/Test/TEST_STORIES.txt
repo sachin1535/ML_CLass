@@ -1,0 +1,5 @@
+story one six none
+story one two none
+story one three none
+story two five none
+tell story none

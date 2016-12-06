@@ -26,19 +26,24 @@ ch.setLevel(logging.DEBUG)
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 ch.setFormatter(formatter)
 log.addHandler(ch)
+# path = '/home/sachin77/Documents/Sachin/word2vec-sentiment/filterStop/'
+# pathTest = '/home/sachin77/Documents/Sachin/word2vec-sentiment/filterStop/Test/'
 
-
-model = Doc2Vec.load('./imdb.d2v')
+#CHANGE THIS FILE NAME w.r.t analysis type
+model = Doc2Vec.load('./imdb47.d2v')
 
 log.info('Sentiment')
-trainsamples = 99253;
-testsamples = 175;
+# CHANGE THESE VALUES BEFORE EACH ANALYSIS FOR DIFFERENT CLASSES 
+# RUN PredictScore script to get these values
+trainsamples = 99734;
+testsamples = 235;
 noOffeatures  =100;
 
 train_arrays = numpy.zeros((trainsamples, noOffeatures))
 train_labels = numpy.zeros(trainsamples)
-path = '/home/sachin77/Documents/Sachin/word2vec-sentiment/filterStop/'
-pathTest = '/home/sachin77/Documents/Sachin/word2vec-sentiment/filterStop/Test/'
+
+
+#ALSO CHANGE THIS FILE IN MAIN FOLDER FROM THE DIFFERENT CLASSES FOLDERS 
 fd = open("detailInfo.txt",'r');
 classCnt = 0;
 classRecords = dict();
@@ -61,17 +66,82 @@ for line in fd:
 fd.close();
 print numpy.max(train_labels)
 
-validationCnt = int(trainsamples*0.2);
-val_arrarys = numpy.zeros((validationCnt,noOffeatures))
-val_labels = numpy.zeros(validationCnt)
-train_arrays_val = numpy.zeros((trainsamples - validationCnt, noOffeatures))
-print(trainsamples - validationCnt)
-train_labels_val = numpy.zeros(trainsamples - validationCnt)
+
+############################################# 10 FOLD VALIDATION ########################################
+# validationCnt = int(trainsamples*0.2);
+# val_arrarys = numpy.zeros((validationCnt,noOffeatures))
+# val_labels = numpy.zeros(validationCnt)
+# train_arrays_val = numpy.zeros((trainsamples - validationCnt, noOffeatures))
+# print(trainsamples - validationCnt)
+# train_labels_val = numpy.zeros(trainsamples - validationCnt)
+# validationScore_lr = list()
+# validationScore_svm = list()
+# validationScore_nn = list()
+
+# for j in range(10):
+#     index_shuf = range(len(train_arrays))
+#     shuffle(index_shuf)
+#     cnt=0;
+#     for i in index_shuf:
+#         if cnt < validationCnt:
+#             val_arrarys[cnt] = train_arrays[i]
+#             val_labels[cnt]  = train_labels[i]
+#         else:
+#             train_arrays_val[cnt-validationCnt] = train_arrays[i]
+#             train_labels_val[cnt-validationCnt] = train_labels[i]
+#         cnt = cnt+1
+
+#     classifier  = LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+#           intercept_scaling=1, penalty='l2', random_state=None, tol=0.0001,multi_class = 'ovr')
+#     classifier.fit(train_arrays_val, train_labels_val)
+#     print classifier.score(val_arrarys, val_labels)
+#     validationScore_lr.append(classifier.score(val_arrarys, val_labels))
+    
+# ## NN Classifier
+
+#     clf=MLPClassifier(solver='lbfgs',alpha=1e-5,hidden_layer_sizes=(200,),random_state=1)
+#     clf.fit(train_arrays_val,train_labels_val)
+#     validationScore_nn.append(clf.score(val_arrarys, val_labels))
+#     print clf.score(val_arrarys, val_labels)
+
+
+# ## SVM Classifier
+#     svm = SVC(C = 100,gamma = 'auto',kernel ='rbf')
+#     svm.fit(train_arrays_val,train_labels_val)
+#     validationScore_svm.append(svm.score(val_arrarys, val_labels))
+#     print svm.score(val_arrarys, val_labels)
+
+    
+
+# print(validationScore_lr)
+# print ("NN Classifier")
+# print(validationScore_nn)
+# print ("SVM Classifier")
+# print(validationScore_svm)
+
+# #CHANGE FILE NAME
+# fw = open('validation_Result_28.txt','w');
+# fw.write("Logistic Regression\n{}\n \nNN\n{} \nSVM \n{}\n".format(validationScore_lr,validationScore_nn,validationScore_svm));
+# fw.close()
+
+########################################################################################################
+
+################################ TRAINING ERROR ########################################################
 validationScore_lr = list()
 validationScore_svm = list()
 validationScore_nn = list()
+for ratio in range(1,10):
+    ratio1 = ratio/10.0;
+    print(ratio1)
+    validationCnt = int(trainsamples*(ratio1));
+    val_arrarys = numpy.zeros((validationCnt,noOffeatures))
+    val_labels = numpy.zeros(validationCnt)
+    train_arrays_val = numpy.zeros((trainsamples - validationCnt, noOffeatures))
+    print(trainsamples - validationCnt)
+    train_labels_val = numpy.zeros(trainsamples - validationCnt)
+  
 
-for j in range(10):
+    # SHUFFLING THE DATA BEFORE DIVIDING INTO VALIDATION AND TRAIN
     index_shuf = range(len(train_arrays))
     shuffle(index_shuf)
     cnt=0;
@@ -99,12 +169,10 @@ for j in range(10):
 
 
 ## SVM Classifier
-    svm = SVC(C = 1000000,gamma = 'auto',kernel ='rbf')
+    svm = SVC(C = 100,gamma = 'auto',kernel ='rbf')
     svm.fit(train_arrays_val,train_labels_val)
     validationScore_svm.append(svm.score(val_arrarys, val_labels))
     print svm.score(val_arrarys, val_labels)
-
-    
 
 print(validationScore_lr)
 print ("NN Classifier")
@@ -112,40 +180,70 @@ print(validationScore_nn)
 print ("SVM Classifier")
 print(validationScore_svm)
 
+#CHANGE FILE NAME
+fw = open('training_Result_47.txt','w');
+fw.write("Logistic Regression\n{}\n \nNN\n{} \nSVM \n{}\n".format(validationScore_lr,validationScore_nn,validationScore_svm));
+fw.close()
 
 
-# fd = open("detailInfo.txt",'r');
-# print("trainin is complete");
-# print(cnt);
-# cnt = 0;
-# cntc= 0;
-# print(classRecords);
-# for line in fd:
-#     cntc=0;
-#     parts = line.split('\t');
-#     classCnt = classRecords[parts[1]];
-#     for each_sample in range(5):
-#         sample_category = "TEST_"+parts[1]+"_" + str(cntc)
-#         cntc = cntc+1;
-#         test_arrays[cnt] = model.docvecs[sample_category]
-#         test_labels[cnt] = classCnt;
-#         cnt = cnt+1;
-
-# fd.close();
-# print(cnt);
-# cntc=0;
-# for i in range(5):
-#     sample_category = "TEST_"+parts[1]+"_" + str(cntc)
-#     cntc = cntc+1;
-#     test_arrays[cnt] = model.docvecs[sample_category]
-#     test_labels[cnt] = classRecords["MONEY"];
-#     cnt = cnt+1;
-
-# print(classRecords["MONEY"]);  
-# print(test_labels);
-# log.info('Fitting')
 
 
+
+####################################################################################################
+print("training is complete");
+
+test_arrays = numpy.zeros((testsamples, noOffeatures))
+test_labels = numpy.zeros(testsamples)
+# REMEMBER TO CHANGE THIS FILE BEFORE RUNNING CODE in current folder 
+fd = open("detailInfo.txt",'r');
+print(cnt);
+cnt = 0;
+cntc= 0;
+print(classRecords);
+for line in fd:
+    cntc=0;
+    parts = line.split('\t');
+    classCnt = classRecords[parts[1]];
+    for each_sample in range(5):
+        sample_category = "TEST_"+parts[1]+"_" + str(cntc)
+        cntc = cntc+1;
+        test_arrays[cnt] = model.docvecs[sample_category]
+        test_labels[cnt] = classCnt;
+        cnt = cnt+1;
+
+fd.close();
+
+print(test_labels);
+log.info('Fitting')
+
+# TEST SCORE COMPUTATION
+test_array_score_lr = list()
+test_array_score_nn = list()
+test_array_score_svm = list()
+classifier  = LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+      intercept_scaling=1, penalty='l2', random_state=None, tol=0.0001,multi_class = 'ovr')
+classifier.fit(train_arrays, train_labels)
+print classifier.score(test_arrays, test_labels)
+test_array_score_lr.append(classifier.score(test_arrays, test_labels))
+
+## NN Classifier
+
+clf=MLPClassifier(solver='lbfgs',alpha=1e-5,hidden_layer_sizes=(200,),random_state=1)
+clf.fit(train_arrays_val,train_labels_val)
+test_array_score_nn.append(clf.score(test_arrays, test_labels))
+print clf.score(test_arrays, test_labels)
+
+
+## SVM Classifier
+svm = SVC(C = 100,gamma = 'auto',kernel ='rbf')
+svm.fit(train_arrays_val,train_labels_val)
+test_array_score_svm.append(svm.score(test_arrays, test_labels))
+print svm.score(test_arrays, test_labels)
+
+#CHANGE FILE NAME 
+fw = open('test_result_47.txt','w');
+fw.write("Logistic Regression\n{}\n \nNN\n{} \nSVM \n{}\n".format(test_array_score_lr,test_array_score_nn,test_array_score_svm));
+fw.close()
 # #LR 
 # classifier  = LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
 #           intercept_scaling=1, penalty='l2', random_state=None, tol=0.0001,multi_class = 'ovr')
