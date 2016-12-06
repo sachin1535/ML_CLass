@@ -130,28 +130,44 @@ print numpy.max(train_labels)
 validationScore_lr = list()
 validationScore_svm = list()
 validationScore_nn = list()
+
+#Validation data computation 
+ratio =0.2 
+validationCnt = int(trainsamples*(ratio1));
+val_arrarys = numpy.zeros((validationCnt,noOffeatures))
+val_labels = numpy.zeros(validationCnt)
+train_arrays_val1 = numpy.zeros((trainsamples - validationCnt, noOffeatures))
+print(trainsamples - validationCnt)
+train_labels_val1 = numpy.zeros(trainsamples - validationCnt)
+index_shuf = range(len(train_arrays))
+shuffle(index_shuf)
+cnt=0;
+for i in index_shuf:
+if cnt < validationCnt:
+    val_arrarys[cnt] = train_arrays[i]
+    val_labels[cnt]  = train_labels[i]
+else:
+    train_arrays_val1[cnt-validationCnt] = train_arrays[i]
+    train_labels_val1[cnt-validationCnt] = train_labels[i]
+cnt = cnt+1
+trainsamples = range(len(train_arrays_val1))
 for ratio in range(1,10):
     ratio1 = ratio/10.0;
     print(ratio1)
-    validationCnt = int(trainsamples*(ratio1));
-    val_arrarys = numpy.zeros((validationCnt,noOffeatures))
-    val_labels = numpy.zeros(validationCnt)
-    train_arrays_val = numpy.zeros((trainsamples - validationCnt, noOffeatures))
-    print(trainsamples - validationCnt)
-    train_labels_val = numpy.zeros(trainsamples - validationCnt)
-  
+    trainCnt = int(trainsamples*(ratio1));
+    
+    train_arrays_val = numpy.zeros((trainCnt, noOffeatures))
+    print(trainsamples - trainCnt)
+    train_labels_val = numpy.zeros(trainCnt)
 
     # SHUFFLING THE DATA BEFORE DIVIDING INTO VALIDATION AND TRAIN
-    index_shuf = range(len(train_arrays))
+    index_shuf = range(len(train_arrays_val1))
     shuffle(index_shuf)
     cnt=0;
     for i in index_shuf:
-        if cnt < validationCnt:
-            val_arrarys[cnt] = train_arrays[i]
-            val_labels[cnt]  = train_labels[i]
-        else:
-            train_arrays_val[cnt-validationCnt] = train_arrays[i]
-            train_labels_val[cnt-validationCnt] = train_labels[i]
+        if cnt < trainCnt:
+            train_arrays_val[cnt] = train_arrays[i]
+            train_labels_val[cnt]  = train_labels[i]
         cnt = cnt+1
 
     classifier  = LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
